@@ -1,5 +1,5 @@
 ---
-title: "Menampilkan Data dari PBX menggunakan SerialPort .NET"
+title: "Menampilkan Data dari PBX menggunakan C#📞"
 date: "2018-04-11"
 tags: [programming, tutorial, tips-trik]
 ---

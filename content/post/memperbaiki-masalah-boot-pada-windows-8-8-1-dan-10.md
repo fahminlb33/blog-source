@@ -1,5 +1,5 @@
 ---
-title: "Memperbaiki Masalah Boot pada Windows 8, 8.1, dan 10"
+title: "Memperbaiki Masalah Boot pada Windows 8, 8.1, dan 10💻"
 date: "2018-04-23"
 tags: [windows, tutorial, tips-trik]
 ---

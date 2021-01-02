@@ -1,5 +1,5 @@
 ---
-title: "Membuat Installer Aplikasi menggunakan WiX Toolset"
+title: "Membuat Installer Aplikasi menggunakan WiX Toolset📦"
 date: "2018-05-29"
 tags: [programming, tutorial, tips-trik, windows]
 ---
