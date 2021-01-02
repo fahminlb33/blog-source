@@ -40,9 +40,6 @@ Anda dapat mengunduh paper ini melalui tautan berikut.
 
 Untuk mengunduh source code aplikasi Emotex, kunjungi laman GitHub pribadi penulis.  
 [https://github.com/fahminlb33/Emotex](https://github.com/fahminlb33/Emotex)
-
-{{< instagram BqbPyVzFxTW >}}
-
 ## Referensi
 
 1. Wikipedia. 2018. Sentiment Analysis (_[https://en.wikipedia.org/wiki/Sentiment\_analysis](https://en.wikipedia.org/wiki/Sentiment_analysis)_). Diakses 11 November 2018.
