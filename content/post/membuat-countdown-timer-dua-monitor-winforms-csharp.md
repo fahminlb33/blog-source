@@ -1,5 +1,5 @@
 ---
-title: "Membuat Countdown Timer Dua Monitor WinForms C#/VB.NET⏳"
+title: "Membuat Countdown Timer Dua Monitor WinForms C#⏳"
 date: "2018-05-24"
 tags: [programming, tutorial, tips-trik, winforms]
 ---

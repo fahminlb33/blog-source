@@ -1,5 +1,5 @@
 ---
-title: "16+ Tips Manipulasi DateTime pada C#/VB.NET🕔"
+title: "16+ Tips Manipulasi DateTime pada C#🕔"
 date: "2018-05-27"
 tags: [programming, tutorial, tips-trik]
 ---
