@@ -1,5 +1,5 @@
 baseURL: 'https://fahminlb33.github.io'
-title: "Fahmi Noor Fiqri🐈"
+title: "Fahmi Noor Fiqri"
 theme: fuji
 
 languageCode: id
@@ -41,10 +41,18 @@ params:
   sourceURL: 'https://github.com/fahminlb33/kodesiana-blog'
 
   showWordCounter: true
-  showReadTime: false
-  showLicenseInFooter: false
+  showReadTime: true
+  showLicenseInFooter: true
   showLicense: true
-  showToc: true  
+  showToc: true
+
+  # Open Graph
+  og: "/img/logo.png"
+
+  # External Apps
+  googleAnalytics: "G-WCSBJTCX6E"
+  googleAdsense: "6850104426944295"
+  disqusShortname: "kodesiana"
 
   images:
     - img/og.png
