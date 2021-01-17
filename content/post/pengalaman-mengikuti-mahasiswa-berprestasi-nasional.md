@@ -102,10 +102,6 @@ terlalu berbeda dengan tingkat fakultas, perbedaannya pada tingkat universitas
 penulis bertemu dengan semua mahasiswa berprestasi yang lolos dari tingkat
 fakultas dan dilihat oleh rektorat.
 
-{{< instagram CAg7VVEDOTF >}}
-
-Nama penulis yang benar Fahmi Noor Fiqri :(
-
 _Long story short_, penulis juga lolos menjadi Mahasiswa Berprestasi tingat
 Universitas Pakuan tahun 2020. Setelah tingkat universitas, selanjutnya adalah
 pilmapres tingkat nasional. Universitas Pakuan mengirimkan dua calon, yaitu
