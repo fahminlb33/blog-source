@@ -86,18 +86,21 @@ menu:
     - name: Pencarian
       url: /search/
       weight: 2
+    - name: Repositori
+      url: /repositori/
+      weight: 3
     - name: Tentang
       url: /about/
-      weight: 3
+      weight: 4
     - name: Arsip
       url: /archives/
-      weight: 4
+      weight: 5
     - name: Kebiajakan Privasi
       url: /privacy-policy/
-      weight: 5
+      weight: 6
     - name: RSS
       url: /index.xml
-      weight: 6
+      weight: 7
 
   link:
     - name: GitHub
