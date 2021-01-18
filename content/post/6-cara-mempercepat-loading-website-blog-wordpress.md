@@ -1,6 +1,7 @@
 ---
 title: "6 Cara Mempercepat Loading Website/Blog WordPress🚀"
 date: "2018-06-18"
+tags: [tips, tutorial, internet]
 ---
 
 Banyak cara untuk mempercepat loading website yang khususnya menggunakan WordPress sebagai CMS-nya. WordPress memiliki banyak fitur yang memudahkan admin/owner untuk mempublikasikan artikel/posting ke dalam website/blog. WordPress juga memiliki sistem _plugin_ yang dapat menambahkan berbagai macam fitur pada website/blog.

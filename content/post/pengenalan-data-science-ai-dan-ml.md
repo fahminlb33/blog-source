@@ -1,6 +1,7 @@
 ---
 title: "Pengenalan Data Science, AI, dan ML🛸"
 date: "2020-02-12"
+tags: ["machine learning", tutorial, tips]
 ---
 
 **Data Science** - Pada zaman revolusi industri 4.0 ini, istilah data science

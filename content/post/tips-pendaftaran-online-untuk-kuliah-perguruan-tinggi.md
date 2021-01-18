@@ -1,7 +1,7 @@
 ---
 title: "Tips Pendaftaran Online untuk Kuliah/Perguruan Tinggi🎓"
 date: "2018-07-12"
-tags: ["kuliah"]
+tags: [kuliah, tips, pengalaman]
 ---
 
 Pada zaman modern ini, hampir semua proses administrasi dilakukan menggunakan bantuan komputer. Mulai dari PPDB SMP dan SMA, hingga perguruan tinggi saat ini menggunakan sistem online. Khusus bagi pendaftar untuk perguruan tinggi atau perkuliahan, Anda pasti akan menemukan beberapa kesulitan untuk memenuhi persyaratannya karena ada beberapa aturan tertentu mengenai file unggahan _(upload)._

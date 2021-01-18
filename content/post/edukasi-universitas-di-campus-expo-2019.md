@@ -1,7 +1,7 @@
 ---
 title: "Edukasi Universitas di CAMPUS EXPO 2019🎓"
 date: "2019-01-11"
-tags: ["kuliah"]
+tags: [kuliah, pengalaman]
 ---
 
 Halo teman-teman semua, apa kabar? Kali ini admin akan sharing tentang sebuah
