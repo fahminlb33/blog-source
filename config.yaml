@@ -115,3 +115,6 @@ menu:
     - name: LinkedIn
       url: 'https://www.linkedin.com/in/fahmi-noor-fiqri'
       weight: 4
+    - name: YouTube
+      url: 'https://www.youtube.com/c/FahmiNoorFiqri'
+      weight: 5
