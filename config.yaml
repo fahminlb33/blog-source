@@ -10,6 +10,8 @@ enableRobotsTXT: true
 summaryLength: 100
 paginate: 5
 
+googleAnalytics: "G-WCSBJTCX6E"
+
 taxonomies:
   tag: tags
 disableKinds:
@@ -50,7 +52,6 @@ params:
   og: "/img/logo.png"
 
   # External Apps
-  googleAnalytics: "G-WCSBJTCX6E"
   googleAdsense: "6850104426944295"
   disqusShortname: "kodesiana"
 
