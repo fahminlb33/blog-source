@@ -63,7 +63,7 @@ Bagi seorang saintis, kode adalah media komunikasi, seperti matematika untuk
 mengekspresikan suatu proses untuk mencapai tujuan tertentu. Target utama dari
 kode ini adalah sebagai _proof of work_, membuktikan suatu teori atau hipotesis.
 Misalnya pada uji coba [klasifikasi spesies
-tanaman](https://kodesiana.com/data-science/klasifikasi-bunga-iris-menggunakan-knn-python/).
+tanaman](https://kodesiana.com/post/klasifikasi-bunga-iris-menggunakan-knn-python/).
 
 Seorang saintis tentunya tidak memiliki pengalaman sebanyak seorang _programmer_
 untuk menciptakan kode program yang baik. Seorang _programmer_ pun akan

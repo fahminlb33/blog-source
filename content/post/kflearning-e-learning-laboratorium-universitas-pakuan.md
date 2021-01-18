@@ -77,7 +77,7 @@ bawah MIT License. Anda juga bisa ikut berkontribusi di GitHub untuk kemajuan
 program ini!
 
 Unduh dari laman berikut.  
-[https://kflearning.kodesiana.com](https://kflearning.kodesiana.com)
+[https://kflearning.kodesiana.com](https://kflearning)
 
 Ikuti petunjuk instalasi pada laman di atas.
 

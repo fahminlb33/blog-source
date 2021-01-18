@@ -43,15 +43,13 @@ Pada video di atas, dapat dilihat dengan menggunakan Double Buffer _scroll_ men
 2. Kurangi jumlah kontrol pada satu form.
 3. Aktifkan Double Buffering pada kontrol yang _lag/flickering_.
 
-Anda dapat menggunakan _method_ _DoubleBuffered(bool state)_ pada SEMUA JENIS KONTROL pada Windows Forms. Ini berarti Anda dapat menghilangkan _lag__flickering_ pada semua kontrol pada form, bukan hanya DataGridView. Anda dapat menggunakan teknik Double Buffer ini pada **Form, Panel, GroupBox, ListView**, dan kontrol lain yang menyebabkan _lagflickering_.
-
-![](https://www.youtube.com/watch?v=Bu-GxoYNv70)
+Anda dapat menggunakan _method_ _DoubleBuffered(bool state)_ pada SEMUA JENIS KONTROL pada Windows Forms. Ini berarti Anda dapat menghilangkan _lag__flickering_ pada semua kontrol pada form, bukan hanya DataGridView. Anda dapat menggunakan teknik Double Buffer ini pada **Form, Panel, GroupBox, ListView**, dan kontrol lain yang menyebabkan _lag/flickering_.
 
 ## Update! Library Paging dan Styling DataGridView
 
 Penulis telah membuat sebuah library untuk memudahkan _paging_ dan _styling_ DataGridView. Pada library ini fitur **double buffering** sudah terintegrasi dan dapat langsung digunakan. Selain itu, terdapat banyak fitur lain seperti _styling_ DataGridView agar tampilannya lebih menarik.
 
-Baca artikel lengkapnya pada artikel [Teknik Pagination dan Styling DataGridView C#/VB.NET](https://kodesiana.com/dotnet/teknik-pagination-dan-styling-untuk-datagridview-c-vb-net/).
+Baca artikel lengkapnya pada artikel [Teknik Pagination dan Styling DataGridView C#/VB.NET](https://kodesiana.com/post/teknik-pagination-dan-styling-untuk-datagridview/).
 
 Source code:  
 [https://github.com/Kodesiana/Post-Samples/tree/master/DataGridEnhanced](https://github.com/Kodesiana/Post-Samples/tree/master/DataGridEnhanced)

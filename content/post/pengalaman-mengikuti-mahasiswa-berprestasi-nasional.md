@@ -53,12 +53,12 @@ sistem/analisis data.
 
 Karena waktu itu penulis sedang tidak ada ide, penulis baru ingat kalau
 sebelumnya penulis pernah membuat aplikasi
-[KFlearning](https://kodesiana.com/tips-dan-trik/kflearning-e-learning-laboratorium-universitas-pakuan/),
+[KFlearning](https://kodesiana.com/post/kflearning-e-learning-laboratorium-universitas-pakuan/),
 yaitu aplikasi e-learning yang digunakan di laboratorium komputer FMIPA.
 
 Akhirnya, penulis mengangkat penelitian mengenai aplikasi KFlearning ini. Kamu
 bisa akses karya tulis yang penulis buat mengenai KFlearning ini di [Repositori
-Kodesiana](https://kodesiana.com/repositori-kodesiana/).
+Kodesiana](https://kodesiana.com/repositori/).
 
 Proyek ini merupakan proyek yang penulis gunakan sebelumnya ketika melamar
 menjadi asisten praktikum (yap, penulis juga merupakan **asisten praktikum**).

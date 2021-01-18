@@ -48,9 +48,8 @@ membuat script untuk mengeksekusi perintah untuk _build_ proyek C#.
 
 ### Script build.cake
 
-Sintaks script untuk Cake tidak bergitu berbeda jauh dengan
-[C#](https://kodesiana.com/category/c-sharp-vb-net/). Berikut adalah contoh
-script yang penulis gunakan untuk melakukan build Argon USB
+Sintaks script untuk Cake tidak bergitu berbeda jauh dengan C#. Berikut adalah
+contoh script yang penulis gunakan untuk melakukan build Argon USB
 Assist+. Untuk tutorial lebih lanjut, silakan [cek
 disini](https://cakebuild.net/docs).
 

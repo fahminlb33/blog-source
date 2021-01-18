@@ -47,7 +47,7 @@ atas adalah bagian dari DevOps yaitu **CI/CD** (Continuous
 Integration/Continuous Delivery).
 
 Tim Kodesiana juga sudah biasa menggunakan Azure DevOps dengan [Cake
-Build](https://kodesiana.com/tutorial/cake-build-script-untuk-build-proyek-net/)
+Build](https://kodesiana.com/post/cake-build-script-untuk-build-proyek-net/)
 untuk membuat otomatisasi proses pembuatan program di Kodesiana, lho.
 
 > Untuk referensi lain mengenai DevOps, bisa dilihat di bagian akhir artikel.

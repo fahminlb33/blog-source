@@ -55,9 +55,9 @@ data.
 
 Salah satu contoh proses data mining sudah pernah dibahas pada artikel
 [Pengenalan Data Science, AI, dan
-ML](https://kodesiana.com/data-science/pengenalan-data-science-ai-dan-ml/)🛸 dan
+ML](https://kodesiana.com/post/pengenalan-data-science-ai-dan-ml/)🛸 dan
 [Klasifikasi Bunga Iris menggunakan KNN
-Python](https://kodesiana.com/data-science/klasifikasi-bunga-iris-menggunakan-knn-python/)🌺.
+Python](https://kodesiana.com/post/klasifikasi-bunga-iris-menggunakan-knn-python/)🌺.
 
 ## Orange Data Mining🍊
 

@@ -44,7 +44,7 @@ Anda bisa mengakses kode project ini pada repositori berikut.
 
 ### Membuat backend
 
-Buat sebuah folder baru dan inisialisasi foldernya dengan package.json (seperti pada artikel [sebelumnya](https://kodesiana.com/nodejs/membuat-invoice-pdf-menggunakan-nodejs/)). Kemudian install _library_ _axios_.
+Buat sebuah folder baru dan inisialisasi foldernya dengan package.json (seperti pada artikel [sebelumnya](https://kodesiana.com/post/membuat-invoice-pdf-menggunakan-nodejs/)). Kemudian install _library_ _axios_.
 
 Pastikan file _package.json_ kamu terlihat seperti ini!
 

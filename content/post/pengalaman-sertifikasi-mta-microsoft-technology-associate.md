@@ -38,7 +38,7 @@ jago Java).
 Setelah admin pikir-pikir, sepertinya [MTA 98-361 Software Development
 Fundamentals](https://www.microsoft.com/en-us/learning/exam-98-361.aspx) cocok
 untuk admin ambil, karena teknologi yang diusung adalah [Visual
-Studio](https://kodesiana.com/c-sharp-vb-net/sentiment-analysis-menggunakan-accord-net-c/),
+Studio](https://kodesiana.com/post/sentiment-analysis-menggunakan-accord-net/),
 yang berarti .NET Framework! Teknologi yang biasa admin gunakan.
 
 Admin pun mulai belajar dan mencari contoh soal dan referensi soal yang mungkin

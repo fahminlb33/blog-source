@@ -8,7 +8,7 @@ tags: ["csharp", "tutorial"]
 
 Styling digunakan untuk "memperindah" tampilan DataGridView kepada user, biasanya berupa kombinasi warna untuk meningkatkan _look-and-feel_ dari data yang ditampilkan. Trik utama untuk membuat _style_ adalah pemilihan warna. Bagaimana penggunaan warna dapat mengubah _look-and-feel_. Tanpa perlu menggunakan _library_ pihak ketiga seperti Telerik dan DevExpress, Anda dapat membuat tampilan DataGridView yang menarik dengan kombinasi warna yang tepat.
 
-[![enhanced-dgv-demo-min](/posts/2018-06-09/42081976985_c793f5c1c1_o.png)](https://www.flickr.com/photos/158825251@N05/42081976985/in/dateposted-public/)
+[![enhanced-dgv-demo-min](/posts/2018-06-09/42081976985_c793f5c1c1_o.png)]
 
 ## Pagination
 

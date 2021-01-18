@@ -349,9 +349,9 @@ docker run -it -v D:/coba-pdf/output:/usr/src/app/output coba-pdf:1.0
 > _container_ agar kamu bisa mengakses file PDF yang dibuat.  
 
 Akan lebih baik kalau proses ini juga menggunakan
-[CI/CD](https://kodesiana.com/tips-dan-trik/azure-devops-untuk-otomatisasi-project-kamu/)
+[CI/CD](https://kodesiana.com/post/azure-devops-untuk-otomatisasi-project-kamu/)
 dan [build
-script](https://kodesiana.com/dotnet-csharp/cake-build-script-untuk-build-proyek-net/).
+script](https://kodesiana.com/post/cake-build-script-untuk-build-proyek-net/).
 
 Pastikan Anda memberikan memori yang cukup untuk _container_ ini. Penulis
 menyarankan memori setidaknya 512MB. Akan lebih baik lagi jika Anda menggunakan

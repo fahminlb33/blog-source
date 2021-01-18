@@ -56,7 +56,7 @@ Pada semua tutorial Arduino di Kodesiana.com, semuanya akan menggunakan Visual
 Studio Code dan bukan Arduino IDE. Tetapi Anda tetap bisa menggunakan Arduino
 IDE dengan kode yang sama dari artikel ini! Baca artikel ini: [Ngoding Arduino
 Lebih Cepat dengan Visual Studio
-Code](https://kodesiana.com/arduino-iot/ngoding-arduino-lebih-cepat-dengan-visual-studio-code/).
+Code](https://kodesiana.com/post/ngoding-arduino-lebih-cepat-dengan-visual-studio-code/).
 
 ```cpp
 #include <SoftwareSerial.h>

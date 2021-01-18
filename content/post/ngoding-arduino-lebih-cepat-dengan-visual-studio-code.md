@@ -67,6 +67,6 @@ Buka kembali _Command Pallete_, kemudian jalankan perintah **Arduino: Upload**. 
 
 ## Simpulan
 
-Apa yang telah penulis paparkan di atas merupakan permulaan kecil untuk menggunakan VSCode untuk membuat program untuk board Arduino. Masih banyak fitur lain seperti _built-in board, library manager, debugger_ dan lainnya. Pada artikel selanjutnya penulis akan membuat sebuah program berbasis [Internet of Things](https://kodesiana.com/category/arduino-iot/) dengan board Arduino Uno dan ESP8266 dengan server ThingSpeak.
+Apa yang telah penulis paparkan di atas merupakan permulaan kecil untuk menggunakan VSCode untuk membuat program untuk board Arduino. Masih banyak fitur lain seperti _built-in board, library manager, debugger_ dan lainnya. Pada artikel selanjutnya penulis akan membuat sebuah program berbasis Internet of Things dengan board Arduino Uno dan ESP8266 dengan server ThingSpeak.
 
 Sampai jumpa di artikel selanjutnya!
