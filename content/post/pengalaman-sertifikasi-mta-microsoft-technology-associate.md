@@ -12,7 +12,7 @@ Bulan Mei lalu, admin mengikuti program sertifikasi Microsoft Technology
 Associate yang diselenggarakan oleh Computer Science Training Center (ComSTraC)
 Universitas Pakuan.
 
-![](/posts/2019-07-13/woman-sitting-behind-table-with-black-laptop-computer.png)
+![](https://source.unsplash.com/-2vD8lIhdnw/1200x657)
 
 ## Awalnya
 

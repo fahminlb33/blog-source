@@ -15,7 +15,7 @@ Mungkin saja, tapi belum tentu begitu!
 > diri sendiri, kurangi pendapat orang lain yang mengatur hidup kamu.
 
 ![man in black t-shirt and blue denim jeans sitting on tree
-branch](/posts/2020-08-29/zhang-kenny-gx1raeg_3zw-unsplash-scaled-1024x1009.jpeg)
+branch](https://source.unsplash.com/Gx1raEg_3Zw/1200x657)
 
 Photo by [Zhang Kenny](https://unsplash.com/@kennyzhang29) on
 [Unsplash](https://unsplash.com/?utm_source=kodesiana&utm_medium=referral)
@@ -71,11 +71,7 @@ Pekerjaan merupakan salah satu alasan yang umum menjadi penyebab mager. Benar
 sekali, kalau kita perlu bekerja setiap hari untuk memenuhi kebutuhan kita,
 sudah pasti kita akan lelah, bukan hanya lelah fisik tetapi juga lelah emosi.
 
-![man wearing white top using
-MacBook](/posts/2020-08-29/tim-gouw-1k9t5yiz2wu-unsplash-1024x685.jpeg)
-
-Photo by [Tim Gouw](https://unsplash.com/@punttim) on
-[Unsplash](https://unsplash.com/?utm_source=kodesiana&utm_medium=referral)
+![](https://source.unsplash.com/9GEzaxGFCJc/1200x657)
 
 Hal ini sangat penulis rasakan. Saat ini penulis masih seorang mahasiswa
 semester 5 dan juga menjadi asisten dosen, selain itu penulis juga sudah bekerja
@@ -112,11 +108,7 @@ rumah harus mengikuti protokol kesehatan yang ketat.
 
 Serasa semua kehidupan sudah pindah ke rumah.
 
-![man lying on bench during
-daytime](https://images.unsplash.com/photo-1527353045084-077c0a4ccd39?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjE2MDU2OH0&fm=jpg&q=85&fit=crop&w=1024&h=682)
-
-Photo by [Ömürden Cengiz](https://unsplash.com/@omurden) on
-[Unsplash](https://unsplash.com/?utm_source=kodesiana&utm_medium=referral)
+![](https://source.unsplash.com/1akqr5QBNTw/1200x657)
 
 Saat mager di rumah, kita biasanya rebahan dengan cara nonton film/TV,
 _stalking_ media sosial, buka video receh, atau hal-hal lain yang bisa dilakukan
@@ -176,11 +168,7 @@ tersebut penulis memang sibuk dan mengerjakan banyak proyek, tetapi penulis
 tidak menyadari berapa banyak pekerjaan yang sudah diselesaikan
 (_underestimate_).
 
-![assorted
-stickers](/posts/2020-08-29/kyle-glenn-kviak3j_a1c-unsplash-scaled-1024x683.jpeg)
-
-Photo by [Kyle Glenn](https://unsplash.com/@kylejglenn) on
-[Unsplash](https://unsplash.com/?utm_source=kodesiana&utm_medium=referral)
+![](https://source.unsplash.com/mlVbMbxfWI4/1200x657)
 
 Baik itu tugas kuliah, pekerjaan di rumah, pekerjaan kantor, atau kegiatan
 kemahasiswaan, semua ketika kita ikut berkontribusi dan menyelesaikan tugas itu,
@@ -236,11 +224,7 @@ ingatan dan belajar sesuatu dengan efektif.
 Selain itu, tidur setidaknya 7 jam sehari dapat membantu meningkatkan ingatan,
 metabolisme, dan mengurangi kelelahan mental (Eugene dan Jolanta: 2015).
 
-![woman sleeping on bed under
-blankets](/posts/2020-08-29/gregory-pappas-ruc9hve-l-e-unsplash-scaled-1024x683.jpeg)
-
-Photo by [Gregory Pappas](https://unsplash.com/@saseko) on
-[Unsplash](https://unsplash.com/?utm_source=kodesiana&utm_medium=referral)
+![](https://source.unsplash.com/CeWNEEsHPbA/1200x657)
 
 Berdasarkan sumber di atas, tidur merupakan salah satu kebutuhan yang tidak
 dapat digantikan. Kamu tidak bisa menggantikan tidur dengan kopi atau _power

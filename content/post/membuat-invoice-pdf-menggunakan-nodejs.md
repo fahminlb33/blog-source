@@ -14,11 +14,7 @@ Ternyata proses pembuatan PDF tidak semudah yang kita bayangkan. Jika kita bisa
 dengan mudah membuat PDF dengan cara mengonversi file Word ke PDF, jika ingin
 dilakukan menggunakan program hal ini bisa jauh lebih sulit dilakukan.
 
-![man wearing white top using
-MacBook](/posts/2020-09-22/tim-gouw-1k9t5yiz2wu-unsplash-1024x685.jpeg)
-
-Photo by [Tim Gouw](https://unsplash.com/@punttim) on
-[Unsplash](https://unsplash.com/?utm_source=kodesiana&utm_medium=referral)
+![](https://source.unsplash.com/iJMitgqRaZ8/1200x657)
 
 Hl ini karena fakta pembuatan PDF yang menurut kita mudah, ternyata prosesnya
 lebih rumit, tidak semudah membangun website menggunakan HTML dan CSS.
@@ -53,11 +49,7 @@ _Puppeteer_ merupakan _library_ JavaScript yang menyediakan API untuk mengontrol
 aplikasi Chromium, bisa dibilang kamu menggunakan Google Chrome tetapi melalui
 kode program.
 
-![selective focus photography of deity
-marionettes](/posts/2020-09-22/sagar-dani-bboxc95sxle-unsplash-1024x635.jpeg)
-
-Photo by [Sagar Dani](https://unsplash.com/@sagardani) on
-[Unsplash](https://unsplash.com/?utm_source=kodesiana&utm_medium=referral)
+![](https://source.unsplash.com/BbOXC95sxlE/1200x657)
 
 Dengan menggunakan _library_ ini kamu bisa melakukan hampir semua kegiatan yang
 bisa kamu lakukan pada Chrome, membuat tab baru, pergi ke URL, melakukan
@@ -291,11 +283,7 @@ Jika Anda ingin menggunakan kode ini pada Docker, ada beberapa hal yang perlu
 Anda perhatikan. Karena kita menggunakan teknik _headless browser_, maka kita
 harus memastikan bahwa browser tersebut bisa berjalan di dalam container.
 
-![school of grey dolphins
-underwater](/posts/2020-09-22/rudney-uezu-l93tk44heri-unsplash-1024x681.jpeg)
-
-Photo by [Rudney Uezu](https://unsplash.com/@rudney) on
-[Unsplash](https://unsplash.com/?utm_source=kodesiana&utm_medium=referral)
+![](https://source.unsplash.com/l93tk44HErI/1200x657)
 
 Buat file Dockerfile seperti di bawah ini.
 

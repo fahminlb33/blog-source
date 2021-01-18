@@ -1,5 +1,5 @@
 ---
-title: "Pengalaman Mengikuti Mahasiswa Berprestasi Nasional👨‍🎓"
+title: "Pengalaman Mengikuti Program Mahasiswa Berprestasi Nasional👨‍🎓"
 date: "2020-10-08"
 tags: [pengalaman, tips, kuliah]
 ---
@@ -18,11 +18,7 @@ saran cara mengikuti pilmapres?
 
 ## Berawal dari Kebetulan
 
-![grayscale photo of people passing by on pedestrian lane during
-daytime](/posts/2020-10-08/michael-daniels-yhh07igjajm-unsplash-1024x768.jpeg)
-
-Photo by [Michael Daniels](https://unsplash.com/@mdaniels) on
-[Unsplash](https://unsplash.com/?utm_source=kodesiana&utm_medium=referral)
+![](https://source.unsplash.com/qwtMxbbPyPI/1200x657)
 
 Bulan Maret lalu, penulis diminta oleh ketua program studi ilmu komputer untuk
 mewakili prodi dalam lomba pilmapres. Informasi ini tiba-tiba penulis dapatkan,

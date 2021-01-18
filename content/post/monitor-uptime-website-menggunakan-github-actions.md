@@ -14,7 +14,7 @@ GitHub Actions yang merupakan layanan CI, biasanya hanya digunakan untuk melakuk
 
 ## GitHub Actions... untuk Functions?
 
-![man sitting on bench](/posts/2020-10-01/simeon-jacobson-c2srmugyxye-unsplash-scaled.jpeg)
+![man sitting on bench](https://source.unsplash.com/C2SRmUGYxYE/1200x657)
 
 Photo by [Simeon Jacobson](https://unsplash.com/@closed) on [Unsplash](https://unsplash.com/?utm_source=kodesiana&utm_medium=referral)
 

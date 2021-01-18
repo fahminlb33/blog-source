@@ -4,7 +4,7 @@ date: "2019-07-13"
 tags: [devops, azure, csharp, programming]
 ---
 
-![](/posts/2019-07-13/woman-placing-sticky-notes-on-wall.png)
+![](https://source.unsplash.com/36Aai16fubc/1200x657)
 
 Azure DevOps merupakan layanan kolaborasi dan CI/CD yang dapat membantu
 perencanaan, pengujian, hingga distribusi proyek yang kecil hingga kelas bisnis.

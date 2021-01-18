@@ -21,11 +21,7 @@ orang yang telah banyak membuat kontribusi ke dunia _deep learning_. Selain
 mereka berdua, masih banyak lagi peneliti lain yang memiliki kontribusi yang
 sangat besar pada teknologi yang biasa kita nikmati sehari-hari.
 
-![man in white dress shirt holding woman in black
-shirt](/posts/2020-10-16/thisisengineering-raeng-cndbjaddrws-unsplash.jpeg)
-
-Photo by [ThisisEngineering RAEng](https://unsplash.com/@thisisengineering) on
-[Unsplash](https://unsplash.com/?utm_source=kodesiana&utm_medium=referral)
+![](https://source.unsplash.com/vGA1ei1yxos/1200x657)
 
 Fenomena saintis yang tidak diberi kredit pada perkembangan teknologi ini sangat
 lumrah, khususnya bagi non-akademisi, karena dilihat dari sisi bisnis, yang
@@ -53,11 +49,7 @@ Bagi seorang _programmer_, membuat kode adalah sebuah seni. Bagaimana cara
 menulis kode merupakan seni yang merupakan hasil latihan selama bertahun-tahun
 dari pengalaman dan penerapan _design pattern_ dan _design principles_.
 
-![img IX mining rig inside white and gray
-room](/posts/2020-10-16/imgix-klwuhr-wpj8-unsplash-1024x610.jpeg)
-
-Photo by [imgix](https://unsplash.com/@imgix) on
-[Unsplash](https://unsplash.com/?utm_source=kodesiana&utm_medium=referral)
+![](https://source.unsplash.com/cvBBO4PzWPg/1200x657)
 
 Bagi seorang saintis, kode adalah media komunikasi, seperti matematika untuk
 mengekspresikan suatu proses untuk mencapai tujuan tertentu. Target utama dari

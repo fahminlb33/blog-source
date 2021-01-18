@@ -36,11 +36,7 @@ sebagian besar data tersebut tidak dapat diolah dengan teknik tradisional (_big
 data_). Diperlukan suatu cara baru untuk dapat mengolah data dalam jumlah besar,
 khususnya untuk mencari informasi dari kumpulan data yang banyak.
 
-![person using MacBook
-Pro](/posts/2020-10-13/campaign-creators-pypeceajezy-unsplash-1024x741.jpeg)
-
-Photo by [Campaign Creators](https://unsplash.com/@campaign_creators) on
-[Unsplash](https://unsplash.com/?utm_source=kodesiana&utm_medium=referral)
+![](https://source.unsplash.com/npxXWgQ33ZQ/1200x657)
 
 Salah satu hal yang menjadi alasan _data mining_ menjadi populer selain karena
 terdapat banyak data yang perlu diolah, juga karena kemajuan dari _machine
@@ -72,11 +68,7 @@ Pada Orange, untuk melakukan _data mining_ kita akan menggunakan sistem
 _widget_. Setiap _widget_ punya fungsinya masing-masing dan dapat menerima input
 atau mengeluarkan output.
 
-![selective focus photography of unpicked orange fruits during
-daytime](/posts/2020-10-13/hoyoung-choi-4xocxdmnwfg-unsplash-scaled.jpeg)
-
-Photo by [Hoyoung Choi](https://unsplash.com/@colly) on
-[Unsplash](https://unsplash.com/?utm_source=kodesiana&utm_medium=referral)
+![](https://source.unsplash.com/yi1YB_FubH8/1200x657)
 
 Misalnya kita ingin membaca data dari sebuah file, kita bisa menggunakan
 _widget_ _File_ untuk membaca data dari file tersebut dan menggunakan _widget_

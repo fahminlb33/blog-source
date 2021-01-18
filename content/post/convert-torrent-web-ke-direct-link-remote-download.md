@@ -12,8 +12,6 @@ Untuk mengatasi hal ini, Anda dapat dengan mudah menggunakan layanan _remote do
 
 ## [3\. TransferCloud.io](https://transfercloud.io/)
 
-![Logo TransferCloud](/posts/2018-05-26/logo-transfecloud.png)
-
 TransferCloud merupakan layanan download torrent, magnet, dan _direct link_. Anda bisa unduh torrent, magnet, dan _direct link_ langsung ke PC atau upload langsung ke _file storage_ seperti Google Drive, Dropbox, dan lain-lain. Masa percobaan selama 7 hari sebanyak 10 kali per hari dengan _size limit_ 1 GB per file. TransferCloud memiliki sistem afilasi yang bisa menghasilkan uang dengan cara mengundang orang lain untuk menggunakan layanan TransferCloud.
 
 Fitur gratis:

@@ -12,7 +12,7 @@ Kodesiana.com sebagai kontributor teknologi lokal dari Indonesia sangat ingin
 ikut serta memajukan taraf penggunaan teknologi di Indonesia, khususnya pada
 bidang pendidikan.
 
-![](/posts/2019-09-02/person-sitting-front-of-laptop.png)
+![](https://source.unsplash.com/9uEHFjGXnCE/1200x657)
 
 Admin Kodesiana.com yang telah berpengalaman dalam industri teknologi informasi
 dan saat ini sedang berkuliah strata 1 mendapati bahwa penggunaan teknologi yang
