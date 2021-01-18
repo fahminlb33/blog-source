@@ -32,7 +32,7 @@ Dengan KFlearning, user dapat membuat project dan membaca artikel dan tutorial
 langsung dalam satu aplikasi.
 
 KFlearning juga merupakan anggota baru dari keluarga [Kodesiana
-Platform](https://kodesiana.com/kodesiana-labs/)! Suksesor dari proyek
+Platform](https://kodesiana.com/repositori/)! Suksesor dari proyek
 pendahulunya, yaitu TurboTugas.
 
 ## Bisa Buat Apa Aja!
@@ -77,7 +77,7 @@ bawah MIT License. Anda juga bisa ikut berkontribusi di GitHub untuk kemajuan
 program ini!
 
 Unduh dari laman berikut.  
-[https://kflearning.kodesiana.com](https://kflearning)
+[https://kflearning.kodesiana.com](https://kflearning.kodesiana.com)
 
 Ikuti petunjuk instalasi pada laman di atas.
 

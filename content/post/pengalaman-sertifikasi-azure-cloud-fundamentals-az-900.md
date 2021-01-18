@@ -38,7 +38,7 @@ Fundamentals (AZ-900) secara gratis setelah menyelesaikan kelas tersebut.
 > "Kesempatan bagus nih, kapan lagi sertifikasi Microsoft gratis"
 
 Penulis sebelumnya sudah pernah mengikuti sertifikasi
-[MTA](https://kodesiana.com/lainnya/pengalaman-sertifikasi-mta-microsoft-technology-associate/)
+[MTA](https://kodesiana.com/post/pengalaman-sertifikasi-mta-microsoft-technology-associate/)
 yang waktu itu diselenggarakan oleh kampus dengan harga Rp600.000. Sertifikasi
 AZ-900 saat itu dibanderol dengan harga $55 USD (sekitar Rp800.000 per tulisan
 ini dirilis pertama kali).
