@@ -2,6 +2,7 @@
 title: "Klasifikasi Bunga Iris menggunakan KNN Python🌺"
 date: "2020-07-28"
 tags: [kuliah, programming, python, tutorial]
+math: true
 ---
 
 Klasifikasi merupakan salah satu kegiatan yang paling sering dilakukan
@@ -70,7 +71,7 @@ obesitas dengan menggunakan algoritma KNN dengan \\(k=3\\).
 
 Berat Badan | Tinggi Badan | Kelas
 ------------|--------------|-------
-70  |   200   |  Normal 
+70  |   200   |  Normal
 68  |   173   |  Normal
 90  |   150   |  Obesitas
 100 |   170   |  Obesitas
@@ -82,7 +83,9 @@ berdasarkan jarak terkecil kemudian ambil  data teratas.
 
 Persamaan jarak Euclidean yaitu:
 
-$$d(x,y)=\\sqrt{ {(x_2-x_1)}^2+{(y_2-y_1)}^2}$$
+{{< math >}}
+d(x,y) =\ sqrt{ {(x_2-x_1)}^2 + {(y_2-y_1)}^2 }
+{{< /math >}}
 
 dengan \\(x\\) dan \\(y\\) adalah dua titik pada ruang Euclidean yang akan
 diukur.
@@ -91,13 +94,13 @@ diukur.
 Jarak antara berat badan \\(x_1=70\\) dan tinggi badan \\(y_1=200\\) dengan
 berat badan \\(x_2=80\\) dan tinggi badan \\(y_2=150\\).
 
-$$
-\begin{align}  
-d(x,y) &= \sqrt{ {(x_2-x_1)}^2+{(y_2-y_1) }^2 }   \\
+{{< math >}}
+\begin{aligned}  
+d(x,y) &= \sqrt{{(x_2-x_1)}^2+{(y_2-y_1) }^2 } \\
 &= \sqrt{ { (80-70)}^2 + { (150-200) }^2 } \\
-&= 50,99 \\
-\end{align}
-$$
+&= 50,99
+\end{aligned}
+{{< /math >}}
 
 Lakukan proses yang sama antara semua baris pada dataset dengan data yang akan
 diuji.
