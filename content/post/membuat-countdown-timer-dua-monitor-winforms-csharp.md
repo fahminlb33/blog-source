@@ -1,7 +1,7 @@
 ---
-title: "Membuat Countdown Timer Dua Monitor WinForms C#⏳"
+title: "Membuat Countdown Timer Dua Monitor C#⏳"
 date: "2018-05-24"
-tags: [programming, tutorial, tips-trik, winforms]
+tags: [programming, tutorial, tips]
 ---
 
 _Countdown timer_ lazim dijumpai di berbagai tempat misalnya di rumah sakit, bank, kantor servis, dan tempat lain yang menggunakan sistem antrean. Program ini biasanya menunjukkan berapa lama waktu sebelum antrean berikutnya dipanggil. Timer ini biasanya ditampilkan menggunakan dua monitor yaitu satu monitor untuk mengontrol timer dan satu monitor untuk menampilkan timer.

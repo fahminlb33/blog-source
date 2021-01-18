@@ -1,5 +1,5 @@
 ---
-title: "Arduino sebagai USB Serial Progammer🛰"
+title: "Arduino sebagai USB Serial Progammer🔌"
 date: "2018-12-31" 
 tags: ["arduino", "programming", "tips"]
 ---

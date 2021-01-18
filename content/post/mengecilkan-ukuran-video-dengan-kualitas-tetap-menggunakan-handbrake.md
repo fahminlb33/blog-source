@@ -1,7 +1,7 @@
 ---
 title: "Mengecilkan Ukuran Video dengan Kualitas Tetap menggunakan Handbrake🍹"
 date: "2018-05-28"
-tags: [multimedia, tutorial, tips-trik]
+tags: [multimedia, tutorial, tips]
 ---
 
 Mengecilkan ukuran video/film lazim dilakukan untuk menghemat ruang pada penyimpanan. Mengoleksi banyak video/film merupakan salah satu kebiasaan banyak orang, terlebih lagi dengan mudahnya akses ke berbagai macam konten video/film yang mudah. Selain itu, kapasitas penyimpanan seperti harddisk saat ini sudah sangat beragam dan beredar di pasaran dengan harga yang terjangkau, menjadikan koleksi video/film ini semakin mudah. Tetapi, ada kalanya jumlah video/film sudah sangat banyak dan perlu ruang untuk menyimpan video/film baru.

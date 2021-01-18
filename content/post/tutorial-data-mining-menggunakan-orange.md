@@ -1,7 +1,7 @@
 ---
 title: "Tutorial Data Mining menggunakan Orange🍊"
 date: "2020-10-13"
-tags: ["data science", tutorial, tips]
+tags: [machine learning, tutorial, tips]
 ---
 
 Data mining merupakan salah satu teknik implementasi dari _machine learning_

@@ -1,7 +1,7 @@
 ---
 title: Monitor Uptime Website menggunakan GitHub Actions🆗
 date: "2020-10-01"
-tags: [internet, nodejs, programming, tutorial]
+tags: [nodejs, programming, tutorial, devops]
 ---
 
 Uptime website merupakan salah satu hal yang menjadi elemen penting dalam pengembangan sebuah sistem. Selain itu, uptime juga merupakan salah satu nilai _market_ yang saat krusial untuk bisnis.

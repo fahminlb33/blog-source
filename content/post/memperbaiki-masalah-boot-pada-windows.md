@@ -1,7 +1,7 @@
 ---
 title: "Memperbaiki Masalah Boot pada Windows 8, 8.1, dan 10💻"
 date: "2018-04-23"
-tags: [windows, tutorial, tips-trik]
+tags: [windows, tutorial, tips]
 ---
 
 Sering kali pengguna Windows menghadapi masalah dengan proses _boot_ Windows yang bisa terjadi karena _driver_, _program_, atau BSOD lainnya. Permasalahan mengenai proses _boot_ ini dapat ditangani dengan beberapa cara sesuai dengan penyebab masalah _booting_ tersebut. Masalah umum penyebab Windows tidak dapat melakukan _boot_:

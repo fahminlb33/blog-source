@@ -1,7 +1,7 @@
 ---
-title: "Teknik Pagination dan Styling untuk DataGridView C#/VB.NET📑"
+title: "Teknik Pagination dan Styling untuk DataGridView📑"
 date: "2018-06-09"
-tags: ["c#", "tutorial"]
+tags: ["csharp", "tutorial"]
 ---
 
 **Pagination** dan **styling** merupakan dua hal yang umum dilakukan untuk meningkatkan _user experience_ pada aplikasi. Pagination digunakan untuk memisahkan beberapa baris data kedalam halaman (*page*), tujuannya untuk memudahkan user melihat data dengan hanya menampilkan beberapa data per halaman.

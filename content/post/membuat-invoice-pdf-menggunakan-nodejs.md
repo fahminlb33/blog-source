@@ -1,7 +1,7 @@
 ---
 title: "Membuat Invoice PDF menggunakan NodeJS📄"
 date: "2020-09-22"
-tags: [javascript, nodejs, tutorial, tips]
+tags: [nodejs, tutorial, tips]
 ---
 
 Invoice PDF merupakan salah satu hal yang paling sering dihadapi saat membuat

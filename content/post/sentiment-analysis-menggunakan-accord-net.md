@@ -1,7 +1,7 @@
 ---
-title: "Sentiment Analysis Menggunakan Accord.NET C#😁"
+title: "Sentiment Analysis Menggunakan Accord.NET😁"
 date: "2018-12-26"
-tags: ["data science", "c#", "machine learning"]
+tags: [csharp, machine learning]
 ---
 
 Sentiment analysis itu apa? Kenapa tiba-tiba admin menulis artikel tentang sentiment analysis? Singkat kata admin sedang mengikuti lomba **Piala MIPA 2018** yang diadakan oleh **Fakultas Ilmu Pengetahuan Alam Universitas Pakuan**.

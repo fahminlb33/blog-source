@@ -1,7 +1,7 @@
 ---
 title: "Membuat Installer Aplikasi menggunakan WiX Toolset📦"
 date: "2018-05-29"
-tags: [programming, tutorial, tips-trik, windows]
+tags: [programming, tutorial, tips, windows]
 ---
 
 Tutorial installer ini membahas cara membuat installer aplikasi menggunakan WiX Toolset. Membuat installer merupakan tahap akhir dari siklus pembuatan aplikasi. Setelah program aplikasi selesai dibuat dan diuji, tahap selanjutnya adalah membuat paket instalasi untuk didistribusikan kepada pengguna akhir/konsumen.

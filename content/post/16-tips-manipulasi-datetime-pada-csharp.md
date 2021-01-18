@@ -1,7 +1,7 @@
 ---
 title: "16+ Tips Manipulasi DateTime pada C#🕔"
 date: "2018-05-27"
-tags: [programming, tutorial, tips-trik]
+tags: [programming, tutorial, tips]
 ---
 
 > Source code: [https://github.com/Kodesiana/Post-Samples/tree/master/DateTime-Formatting](https://github.com/Kodesiana/Post-Samples/tree/master/DateTime-Formatting)

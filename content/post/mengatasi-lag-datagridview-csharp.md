@@ -1,7 +1,7 @@
 ---
-title: "Mengatasi Lag DataGridView WinForms C#/VB.NET"
+title: "Mengatasi Lag DataGridView C#"
 date: "2018-05-15"
-tags: [programming, tutorial, tips-trik, winforms]
+tags: [programming, tutorial, tips]
 ---
 
 DataGridView merupakan kontrol yang sangat umum digunakan untuk menampilkan data dari _database_. Tetapi, saat menggunakan DataGridView dengan banyak _style_ dan data, aplikasi akan menjadi _lag_ atau _flickering_. Lag DataGridView ini bisa diatasi dengan beberapa cara, salah satunya adalah menggunakan **Double Buffering**.

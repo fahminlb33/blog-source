@@ -1,7 +1,7 @@
 ---
 title: "Menampilkan Data dari PBX menggunakan C#📞"
 date: "2018-04-11"
-tags: [programming, tutorial, tips-trik]
+tags: [programming, tutorial, tips]
 ---
 
 > Source code: [https://github.com/Kodesiana/Post-Samples/tree/master/PBXListener](https://github.com/Kodesiana/Post-Samples/tree/master/PBXListener)

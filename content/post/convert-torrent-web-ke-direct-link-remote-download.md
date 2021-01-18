@@ -1,7 +1,7 @@
 ---
 title: "Convert Torrent/Web ke Direct Link (Remote Download)🔗"
 date: "2018-05-26"
-tags: [internet, tutorial, tips-trik, download]
+tags: [internet, tutorial, tips]
 ---
 
 Convert torrent selalu menjadi topik hangat bagi para _downloader_ yang suka berburu aplikasi, film, dan game gratis. Torrent merupakan sistem _file sharing peer to peer_ yaitu saling berbagi antara satu pengguna dengan pengguna lain. Masing-masing pengguna memiliki _pecahan/piece_ dari sebuah file utuh yang kemudian saling berbagi dalam jaringan torrent. Dengan kata lain, semakin banyak _peer,_ semakin cepat download.
