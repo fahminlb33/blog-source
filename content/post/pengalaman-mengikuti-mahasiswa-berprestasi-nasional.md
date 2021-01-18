@@ -1,6 +1,7 @@
 ---
 title: "Pengalaman Mengikuti Mahasiswa Berprestasi Nasional👨‍🎓"
 date: "2020-10-08"
+tags: [pengalaman, tips, kuliah]
 ---
 
 Pilmapres atau Pemilihan Mahasiswa Berprestasi merupakan kegiatan tahunan yang

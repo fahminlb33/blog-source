@@ -1,5 +1,5 @@
 ---
-title: "Mengatasi Lag DataGridView C#"
+title: "Mengatasi Lag DataGridView C#⌚"
 date: "2018-05-15"
 tags: [programming, tutorial, tips]
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Scientist is Not A Programmer 👨‍💻"
 date: "2020-10-16"
+tags: [pengalaman, kuliah]
 ---
 
 Zaman industri 4.0 ini kita sangat dimanjakan dengan berbagai teknologi cerdas

@@ -1,7 +1,7 @@
 ---
-title: "Mengatasi Proxy Windows 10 Tidak Mau Mati🔭"
+title: "Mengatasi Proxy Windows 10 Tidak Mau Mati🛑"
 date: "2018-11-15"
-tags: ["windows", "tutorial"]
+tags: [windows, tutorial]
 ---
 
 Proxy Windows 10 merupakan salah satu fitur yang dapat membantu penggunanya untuk membantu menggunakan proxy yang dapat digunakan pada sistem, tanpa perlu menggunakan aplikasi pihak ketiga seperti Proxifier, CCProxy, atau aplikasi proxy serupa.

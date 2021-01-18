@@ -1,5 +1,5 @@
 ---
-title: "Mengecilkan Ukuran Video dengan Kualitas Tetap menggunakan Handbrake🍹"
+title: "Mengecilkan Ukuran Video menggunakan Handbrake🍹"
 date: "2018-05-28"
 tags: [multimedia, tutorial, tips]
 ---

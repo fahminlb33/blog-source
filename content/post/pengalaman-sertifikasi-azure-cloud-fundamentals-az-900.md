@@ -1,7 +1,7 @@
 ---
 title: "Pengalaman Sertifikasi Azure Cloud Fundamentals (AZ-900)☁"
 date: "2020-08-25"
-tags: [pengalaman, tips]
+tags: [pengalaman, tips, programming]
 ---
 
 Azure Cloud Service merupakan salah satu provider _cloud service_ yang

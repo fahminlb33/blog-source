@@ -1,7 +1,7 @@
 ---
 title: "Pengalaman Sertifikasi Microsoft Technology Associate (MTA)📚"
 date: "2019-07-13"
-tags: [programming, tips]
+tags: [pengalaman, tips, programming, kuliah]
 ---
 
 Sertifikasi (MTA atau lainnya) dapat membuka jalan untuk mengeksplorasi peluang

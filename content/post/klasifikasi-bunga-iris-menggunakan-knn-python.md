@@ -1,9 +1,6 @@
 ---
 title: "Klasifikasi Bunga Iris menggunakan KNN Python🌺"
-layout: post
-toc: true
-math: true
-categories: data-science
+date: "2020-07-28"
 tags: [kuliah, programming, python, tutorial]
 ---
 
