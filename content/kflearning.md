@@ -5,11 +5,16 @@ showLicense: false
 showToc: false
 ---
 
-KFlearning merupakan aplikasi e-learning terpadu untuk laboratorium komputer
-Universitas Pakuan.
+File | Versi | Download
+-----|-------|---------
+KFlearning         | v1.3.4 | [Download](https://github.com/fahminlb33/KFlearning/releases/download/1.3.4/KFlearning.Setup.msi)
+KFmaintenance      | v1.0.3 | [Download](https://github.com/fahminlb33/KFlearning/releases/download/1.3.4/KFmaintenance.Setup.msi)
+KF-MinGW           | v1.0.1 | [Download](https://drive.google.com/open?id=1_0uEFDbsjZJY3rvjVOkYaxEqFJoQc0P3)
+Visual Studio Code | Latest | [Download](https://code.visualstudio.com/docs/?dv=win)
+Changelog          |        | [Download](https://github.com/fahminlb33/KFlearning/releases/tag/1.3.4)
 
-KFlearning v1.3.4 "Hardbass" dalam status **stabil.** Berikan kritik dan saran
-melalui asisten praktikum Anda.
+> KFlearning v1.3.4 "Hardbass" dalam status **stabil.** Berikan kritik dan saran
+> melalui asisten praktikum Anda.
 
 ## KFlearning
 
@@ -37,17 +42,7 @@ pemrograman.
 
 * Windows 7 SP1 32-bit/64-bit.
 * .NET Framework 4.5
-* Disk space 500 MB (+Compiler)
-
-### Unduh
-
-File | Versi | Download
------|-------|---------
-KFlearning         | v1.3.4 | [Download](https://github.com/fahminlb33/KFlearning/releases/download/1.3.4/KFlearning.Setup.msi)
-KFmaintenance      | v1.0.3 | [Download](https://github.com/fahminlb33/KFlearning/releases/download/1.3.4/KFmaintenance.Setup.msi)
-KF-MinGW           | v1.0.1 | [Download](https://drive.google.com/open?id=1_0uEFDbsjZJY3rvjVOkYaxEqFJoQc0P3)
-Visual Studio Code | Latest | [Download](https://code.visualstudio.com/docs/?dv=win)
-Changelog          |        | [Download](https://github.com/fahminlb33/KFlearning/releases/tag/1.3.4)
+* Disk space 500 MB (+ compiler)
 
 ## Cara Instalasi
 
