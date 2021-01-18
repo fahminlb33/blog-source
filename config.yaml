@@ -82,36 +82,27 @@ menu:
   nav:
     - name: Beranda
       url: /
-      weight: 1
     - name: Pencarian
       url: /search/
-      weight: 2
     - name: Repositori
       url: /repositori/
-      weight: 3
+    - name: KFlearning
+      url: /kflearning/
     - name: Tentang
       url: /about/
-      weight: 4
     - name: Arsip
       url: /archives/
-      weight: 5
     - name: Kebiajakan Privasi
       url: /privacy-policy/
-      weight: 6
     - name: RSS
       url: /index.xml
-      weight: 7
 
   link:
     - name: GitHub
       url: 'https://github.com/fahminlb33'
-      weight: 1
     - name: Instagram
       url: 'https://instagram.com/fahminoorfiqri'
-      weight: 2
     - name: Twitter
       url: 'https://twitter.com/fahminoorfiqri'
-      weight: 3
     - name: LinkedIn
       url: 'https://www.linkedin.com/in/fahmi-noor-fiqri'
-      weight: 4
