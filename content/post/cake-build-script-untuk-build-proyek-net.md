@@ -52,7 +52,7 @@ Sintaks script untuk Cake tidak bergitu berbeda jauh dengan
 [C#](https://kodesiana.com/category/c-sharp-vb-net/). Berikut adalah contoh
 script yang penulis gunakan untuk melakukan build Argon USB
 Assist+. Untuk tutorial lebih lanjut, silakan [cek
-disini](https://cakebuild.net/docs/tutorials).
+disini](https://cakebuild.net/docs).
 
 ```csharp
 var target = Argument<string>("target", "Build"); Task("Build") .Does(() =>

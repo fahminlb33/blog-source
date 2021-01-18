@@ -41,9 +41,6 @@ Kita akan menggunakan _library axios_ pada backed untuk melakukan _request_ ke s
 
 Anda bisa mengakses kode project ini pada repositori berikut.  
 [https://github.com/fahminlb33/playcourt-tricks](https://github.com/fahminlb33/playcourt-tricks)  
-  
-Website:  
-[https://fahminlb33.github.io/playcourt-tricks/](https://fahminlb33.github.io/playcourt-tricks/)
 
 ### Membuat backend
 

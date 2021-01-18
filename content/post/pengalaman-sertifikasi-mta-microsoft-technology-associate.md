@@ -88,14 +88,6 @@ juga mempelajari materi sesuai kisi-kisi dari Microsoft Learning, khususnya
 materi basis data, karena admin tidak terlalu jago mengenai normalisasi basis
 data.
 
-Admin juga mau membagikan materi persiapan yang admin gunakan sebelum ujian MTA
-ini, filenya bisa di unduh di sini:
-
-**[MTA
-Preparation.7z](https://drive.google.com/open?id=1XS5lS0eI39xVBHWLPvWPnag7rboGgULt)**
-
-Password: ilkom2018
-
 Ayo teman-teman, ikut sertifikasi apapun jenisnya. Karena sertifikasi seperti
 itu banyak manfaatnya, lho. Apalagi untuk kamu yang masih berkuliah, itu akan
 menjadi bekal yang penting untuk terjun ke dunia kerja nanti.

@@ -38,7 +38,7 @@ params:
   author: "Fahmi Noor Fiqri"
   subTitle: "#NgodingItuMudah - A passionate software engineer and machine learning enthusiast."
   description: A passionate software engineer and machine learning enthusiast.
-  sourceURL: 'https://github.com/fahminlb33/kodesiana-blog'
+  sourceURL: 'https://github.com/fahminlb33/blog-source'
 
   showWordCounter: true
   showReadTime: true

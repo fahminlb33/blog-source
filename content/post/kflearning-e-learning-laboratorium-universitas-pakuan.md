@@ -33,8 +33,7 @@ langsung dalam satu aplikasi.
 
 KFlearning juga merupakan anggota baru dari keluarga [Kodesiana
 Platform](https://kodesiana.com/kodesiana-labs/)! Suksesor dari proyek
-pendahulunya, yaitu
-[TurboTugas](https://kodesiana.com/lainnya/turbotugas-aplikasi-tugas-dan-turbo-c/).
+pendahulunya, yaitu TurboTugas.
 
 ## Bisa Buat Apa Aja!
 

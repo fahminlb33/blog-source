@@ -6,7 +6,7 @@ tags: [kuliah, tips, pengalaman]
 
 Pada zaman modern ini, hampir semua proses administrasi dilakukan menggunakan bantuan komputer. Mulai dari PPDB SMP dan SMA, hingga perguruan tinggi saat ini menggunakan sistem online. Khusus bagi pendaftar untuk perguruan tinggi atau perkuliahan, Anda pasti akan menemukan beberapa kesulitan untuk memenuhi persyaratannya karena ada beberapa aturan tertentu mengenai file unggahan _(upload)._
 
-Beberapa aturan yang umum diberlakukan oleh pihak universitas dalam pendaftaran online misalnya format file dan ukurannya. Kebanyakan calon MABA yang notabene siswa SMA belum mengetahui cara untuk mempersiapkan file yang akan digunakan untuk mendaftar. Berikut adalah beberapa tips untuk mendaftar online untuk kuliah, baik untuk SNMPTN, [SBMPTN](https://kodesiana.com/lainnya/bongkar-teori-respon-butir-sbmptn-2018/), maupun Mandiri.
+Beberapa aturan yang umum diberlakukan oleh pihak universitas dalam pendaftaran online misalnya format file dan ukurannya. Kebanyakan calon MABA yang notabene siswa SMA belum mengetahui cara untuk mempersiapkan file yang akan digunakan untuk mendaftar. Berikut adalah beberapa tips untuk mendaftar online untuk kuliah, baik untuk SNMPTN, SBMPTN, maupun Mandiri.
 
 # 1) Mengatasi Batasan Ukuran untuk Upload
 

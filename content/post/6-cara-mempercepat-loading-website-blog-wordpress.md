@@ -37,7 +37,7 @@ Secara garis besar, Anda akan melakukan perubahan berikut pada website/blog Anda
 
 Sebelum memulai proses untuk mempercepat website/blog, Anda akan mengonfigurasi subdomain sebagai CDN untuk file CSS/JS dari website/blog Anda. CDN adalah jaringan server yang bertindak sebagai proxy dan data center yang terpisah secara geografis\[3\]. Untuk performa terbaik, Anda perlu membeli jasa CDN seperti MaxCDN atau sejenisnya, tetapi pada tutorial ini penulis akan membuat subdomain sebagai pengganti _dedicated CDN_. Teknik ini bukanlah cara terbaik untuk mempercepat loading website/blog, tetapi sudah cukup apabila Anda memiliki server yang cepat.
 
-Buka cPanel kemudian buat subdomain baru. Pada contoh ini penulis membuat subdomain **https://cdn.kodesiana.com** dengan _target folder_ _/public\_html_. Pastikan _target folder_ adalah folder yang sama dengan website/blog Anda. Folder ini dapat berbeda sesuai server yang Anda gunakan.
+Buka cPanel kemudian buat subdomain baru. Pada contoh ini penulis membuat subdomain `https://cdn.kodesiana.com` dengan _target folder_ _/public\_html_. Pastikan _target folder_ adalah folder yang sama dengan website/blog Anda. Folder ini dapat berbeda sesuai server yang Anda gunakan.
 
 ![Membuat Subdomain untuk CDN](/posts/2018-06-18/42081975495_b7048e52dc_o_d.png)
 
