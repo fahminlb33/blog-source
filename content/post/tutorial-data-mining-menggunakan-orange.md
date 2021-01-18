@@ -96,12 +96,11 @@ channel YouTube di bawah ini.
 Kamu bisa cek _playlist_ YouTube penulis untuk melihat kumpulan tutorial _data
 mining_ menggunakan aplikasi Orange di bawah ini.
 
-Subscribe ke channel YouTube  
-[Fahmi Noor Fiqri](https://www.youtube.com/c/FahmiNoorFiqri)!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLMVLkFFusfMA69hS3ciMN7LVPNa_sXtSj" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 https://www.youtube.com/playlist?list=PLMVLkFFusfMA69hS3ciMN7LVPNa_sXtSj
 
-Tutorial ini akan berisi 24 video yang akan membahas berbagai topik yang
+Tutorial ini akan berisi 16 video yang akan membahas berbagai topik yang
 berkaitan dengan _data mining_.
 
 1. Pendahuluan Data Mining
@@ -122,14 +121,6 @@ berkaitan dengan _data mining_.
     (Data Spasial)
 15. Prediksi Asosiasi Barang Belanja menggunakan Apriori
 16. Text Mining
-17. Sentiment Analysis Twitter
-18. Topic Modelling Sinopsis Buku
-19. Deep Learning dan Neural Network
-20. Klasifikasi Pengidap Kanker menggunakan Neural Network
-21. Regresi Output Pembangkit Listrik menggunakan Neural Network
-22. Computer Vision
-23. Klasifikasi Gambar menggunakan Neural Network
-24. Clustering Gambar menggunakan Hierarchical Clustering
 
 Video akan diperbarui setiap satu pekan sekali atau satu pekan dua kali,
 bergantung kesibukan penulis.
