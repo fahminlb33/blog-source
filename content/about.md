@@ -1,16 +1,33 @@
 ---
-title: "Tentang Kodesiana"
-date: 2020-04-11T19:15:32+08:00
+title: "Kodesiana 101"
+date: 2020-04-18
 showLicense: false
 showToc: false
 ---
 
-Kodesiana.com dirintis pada tanggal 10 April 2018 dengan tujuan menjadi satu-satunya blog dengan konten unik dan paling update tentang pemrograman khususnya C#. Kodesiana mengutamakan kualitas artikel dengan menyediakan berbagai penjelasan, tutorial, video, buku-el, dan source code.
+<div style="text-align: center">
+<img src="/img/me.jpg">
+<p>I'm Fahmi!</p>
+</div>
 
-Cari Artikel? Tutorial? Source Code? Kodesiana! Kodesiana.com cocok banget buat kamu yang lagi cari artikel, tutorial, dan source code. Kodesiana punya banyak artikel dan tutorial lengkap dengan source code yang bisa kamu unduh dari repositori GitHub Kodesiana.com (link disini).
+Kodesiana.com dirintis pada tanggal 10 April 2018 dengan seorang penulis yaitu
+Fahmi Noor Fiqri, yang merupakan software engineer dan juga penggiat data
+science yang saat ini sedang menempuh studi strata I jurusan ilmu komputer di
+Universitas Pakuan Bogor.
 
-Untuk artikel, kamu bisa lihat di beranda Kodesiana, sedangkan untuk tutorial, kamu bisa cek kategori Tutorial.
+Selain itu, penulis saat ini bekerja sebagai backend developer menggunakan
+NodeJS di [Logee Trans by Telkom Indonesia](https://logeetrans.com/) sejak
+Oktober 2019. Long story short, background penulis adalah programmer C# tetapi
+sekarang menggunakan JavaScript.
 
-## DISCLAIMER KODESIANA.COM
+Blog Kodesiana.com saat ini adalah blog pribadi penulis. Jika ada waktu
+senggang, penulis akan menulis di blog ini dan juga channel YouTube penulis.
+Yap, Kodesiana.com juga punya channel YouTube, tetapi dengan nama penulis. Kamu
+bisa cek channel YouTube penulis melalui tautan di samping kanan.
 
-Semua tulisan dan gambar yang disebarluaskan pada laman ini dibuat seperti apa adanya, tidak ada jaminan bahwa apa yang ditulis akan bekerja seperti apa yang ditulis bergantung dengan situasi dan kondisi Anda sebagai pengguna akhir. Apabila ada pertanyaan, silakan berkomentar pada tulisan yang bersangkutan. Penulis mungkin menggunakan tautan yang bersifat afilasi pada artikel yang dirilis.
+Hmm, mungkin cukup sekian intro dari penulis, semoga kamu bisa menemukan sesuatu
+yang berguna di blog ini!
+
+Salam,
+
+Penulis
