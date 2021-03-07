@@ -1,6 +1,6 @@
 ---
 title: "KFlearning"
-date: 2020-01-18
+date: 2021-03-07
 showLicense: false
 showToc: false
 ---
@@ -13,7 +13,7 @@ KF-MinGW           | v1.0.1 | [Download](https://drive.google.com/open?id=1_0uEF
 Visual Studio Code | Latest | [Download](https://code.visualstudio.com/docs/?dv=win)
 Changelog          |        | [Download](https://github.com/fahminlb33/KFlearning/releases/tag/2.0.0)
 
-> KFlearning v2.0.0 "OFORHDNST" dalam status **stabil.** Berikan kritik dan saran
+> KFlearning v2.0.0 "X.A.N.A." dalam status **stabil.** Berikan kritik dan saran
 > melalui asisten praktikum Anda.
 
 ## KFlearning
