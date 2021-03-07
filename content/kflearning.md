@@ -7,13 +7,13 @@ showToc: false
 
 File | Versi | Download
 -----|-------|---------
-KFlearning         | v1.3.4 | [Download](https://github.com/fahminlb33/KFlearning/releases/download/1.3.4/KFlearning.Setup.msi)
-KFmaintenance      | v1.0.3 | [Download](https://github.com/fahminlb33/KFlearning/releases/download/1.3.4/KFmaintenance.Setup.msi)
+KFlearning         | v2.0.0 | [Download](https://github.com/fahminlb33/KFlearning/releases/download/2.0.0/KFlearning.Setup.msi)
+KFmaintenance      | v2.0.0 | [Download](https://github.com/fahminlb33/KFlearning/releases/download/2.0.0/KFmaintenance.Setup.msi)
 KF-MinGW           | v1.0.1 | [Download](https://drive.google.com/open?id=1_0uEFDbsjZJY3rvjVOkYaxEqFJoQc0P3)
 Visual Studio Code | Latest | [Download](https://code.visualstudio.com/docs/?dv=win)
-Changelog          |        | [Download](https://github.com/fahminlb33/KFlearning/releases/tag/1.3.4)
+Changelog          |        | [Download](https://github.com/fahminlb33/KFlearning/releases/tag/2.0.0)
 
-> KFlearning v1.3.4 "Hardbass" dalam status **stabil.** Berikan kritik dan saran
+> KFlearning v2.0.0 "OFORHDNST" dalam status **stabil.** Berikan kritik dan saran
 > melalui asisten praktikum Anda.
 
 ## KFlearning
@@ -35,14 +35,18 @@ pemrograman.
 ### Development Support
 
 * Full Stack Web Development (PHP, HTML, CSS, JS)
-* Desktop C++ MinGW-w64 Compiler (Console, GUI)
+* Desktop with C++ and MinGW-w64 Compiler (Console, GUI)
 * Data Science (Python, Jupyter Notebook)
+* Mobile with Flutter
 
 ### Kebutuhan Sistem
 
 * Windows 7 SP1 32-bit/64-bit.
 * .NET Framework 4.5
-* Disk space 500 MB (+ compiler)
+* Disk space 500 MB (+ KF-MinGW)
+
+Catatan: apabila Anda akan menggunakan Flutter, maka kebutuhan sistem Anda
+harus lebih tinggi.
 
 ## Cara Instalasi
 
@@ -67,9 +71,30 @@ efisiensi aplikasi.
     * Bracket Pair Colorizer 2
     * Beautify
     * PHP Extension Pack
-    * IntelliSense for CSS class names
 7. Tutup Visual Studio Code setelah semua extension diinstall.
 8. Instalasi selesai.
+
+### Mata Kuliah Mobile Programming
+
+Apabila Anda mengambil mata kuliah Mobile Programming, Anda juga harus menginstall
+Flutter SDK dan ekstensi Flutter pada Visual Studio Code.
+
+1. Buka KFlearning.
+2. Klik **Install Flutter SDK**.
+3. Klik **Install Flutter**.
+4. Tunggu hingga proses selesai.
+5. Buka Visual Studio Code.
+6. Klik tab *Extensions*, kemudian install **Flutter**.
+
+Setelah instalasi Flutter SDK selesai, lanjutkan install Android Studio and Android
+SDK sesuai arahan asisten praktikum.
+
+## Laporan Bug dan Feedback
+
+Apabila Anda menemukan bug/error atau masukan dan tanggapan, silakan berikan input
+melalui form berikut ini.
+
+[Form Bug Report/Feedback KFlearning](https://forms.gle/cVymzViruCcVtm3W6)
 
 ## Petunjuk Upgrade
 
