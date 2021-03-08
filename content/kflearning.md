@@ -1,20 +1,20 @@
 ---
 title: "KFlearning"
-date: 2021-03-07
+date: 2021-03-08
 showLicense: false
 showToc: false
 ---
 
 File | Versi | Download
 -----|-------|---------
-KFlearning         | v2.0.0 | [Download](https://github.com/fahminlb33/KFlearning/releases/download/2.0.0/KFlearning.Setup.msi)
-KFmaintenance      | v2.0.0 | [Download](https://github.com/fahminlb33/KFlearning/releases/download/2.0.0/KFmaintenance.Setup.msi)
+KFlearning         | v2.0.1 | [Download](https://github.com/fahminlb33/KFlearning/releases/download/2.0.1/KFlearning.Setup.msi)
+KFmaintenance      | v2.0.1 | [Download](https://github.com/fahminlb33/KFlearning/releases/download/2.0.1/KFmaintenance.Setup.msi)
 KF-MinGW           | v1.0.1 | [Download](https://drive.google.com/open?id=1_0uEFDbsjZJY3rvjVOkYaxEqFJoQc0P3)
 Visual Studio Code | Latest | [Download](https://code.visualstudio.com/docs/?dv=win)
-Changelog          |        | [Download](https://github.com/fahminlb33/KFlearning/releases/tag/2.0.0)
+Changelog          |        | [Download](https://github.com/fahminlb33/KFlearning/releases/tag/2.0.1)
 
 > KFlearning v2.0.0 "X.A.N.A." dalam status **stabil.** Berikan kritik dan saran
-> melalui asisten praktikum Anda.
+> melalui asisten praktikum Anda atau form berikut: [Form Bug Report/Feedback KFlearning](https://forms.gle/cVymzViruCcVtm3W6)
 
 ## KFlearning
 
