@@ -1,0 +1,55 @@
+[sidebarToc]
+    other = "Daftar Isi"
+
+[sidebarPages]
+    other = "Halaman"
+
+[sidebarTags]
+    other = "Tag"
+
+[sidebarLinks]
+    other = "Tautan Eksternal"
+
+[sidebarBangumiChart]
+    other = "Bangumi"
+
+[footerPoweredFront]
+    other = "Dibuat menggunakan "
+
+[footerPoweredEnd]
+    other = " "
+
+[postMetaNoTag]
+    other = "Tanpa tag"
+
+[postMetaWordCount]
+    one = "{{.Count}} kata"
+    other = "{{.Count}} kata"
+
+[postMetaReadingTime]
+    one = "{{.Count}} menit"
+    other = "{{.Count}} menit"
+
+[postCopyrightFront]
+    other = "Jika tidak dituliskan secara eksplisit, semua konten dilisensikan di bawah "
+
+[postCopyrightEnd]
+    other = "."
+
+[postComment]
+    other = "Muat komentar"
+
+[archivesTotalPages]
+    other = "Jumlah posting: "
+
+[tagsCurrentTag]
+    other = "Posting dengan tag {{ .Title }}: "
+
+[searchSuccess]
+    other = "[NUM] hasil ([TIME] ms)"
+
+[searchNotFound]
+    other = "Hasil tidak ditemukan"
+
+[searchFailed]
+    other = "Gagal melakukan pencarian"
