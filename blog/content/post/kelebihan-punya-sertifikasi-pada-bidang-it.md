@@ -1,5 +1,5 @@
 ---
-title: "Kelebihan Punya Sertifikasi Bidang IT👨‍🎓"
+title: "Kelebihan Punya Sertifikasi pada Bidang IT👨‍🎓"
 date: "2021-04-10"
 tags: [tips, pengalaman, kuliah, karier]
 ---
