@@ -5,16 +5,10 @@ showLicense: false
 showToc: false
 ---
 
-File | Versi | Download
------|-------|---------
-KFlearning         | v2.0.1 | [Download](https://github.com/fahminlb33/KFlearning/releases/download/2.0.1/KFlearning.Setup.msi)
-KFmaintenance      | v2.0.1 | [Download](https://github.com/fahminlb33/KFlearning/releases/download/2.0.1/KFmaintenance.Setup.msi)
-KF-MinGW           | v1.0.1 | [Download](https://drive.google.com/open?id=1_0uEFDbsjZJY3rvjVOkYaxEqFJoQc0P3)
-Visual Studio Code | Latest | [Download](https://code.visualstudio.com/docs/?dv=win)
-Changelog          |        | [Download](https://github.com/fahminlb33/KFlearning/releases/tag/2.0.1)
-
-> KFlearning v2.0.0 "X.A.N.A." dalam status **stabil.** Berikan kritik dan saran
+> KFlearning v2.0.1 "X.A.N.A." dalam status **stabil.** Berikan kritik dan saran
 > melalui asisten praktikum Anda atau form berikut: [Form Bug Report/Feedback KFlearning](https://forms.gle/cVymzViruCcVtm3W6)
+
+<p style="text-align: center;"><b>Link download ada di bagian bawah laman ini.</b></p>
 
 ## KFlearning
 
@@ -52,6 +46,14 @@ harus lebih tinggi.
 
 Jika Anda pernah menggunakan KFlearning v1.0, v1.1, atau v1.2, Anda harus
 mengikuti tutorial upgrade di bagian bawah di akhir halaman ini.
+
+File | Versi | Download
+-----|-------|---------
+KFlearning         | v2.0.1 | [Download](https://github.com/fahminlb33/KFlearning/releases/download/2.0.1/KFlearning.Setup.msi)
+KFmaintenance      | v2.0.1 | [Download](https://github.com/fahminlb33/KFlearning/releases/download/2.0.1/KFmaintenance.Setup.msi)
+KF-MinGW           | v1.0.1 | [Download](https://drive.google.com/open?id=1_0uEFDbsjZJY3rvjVOkYaxEqFJoQc0P3)
+Visual Studio Code | Latest | [Download](https://code.visualstudio.com/docs/?dv=win)
+Changelog          |        | [Lihat](https://github.com/fahminlb33/KFlearning/releases/tag/2.0.1)
 
 Instalasi KFlearning sedikit lebih rumit dibandingkan dengan aplikasi IDE lain,
 karena KFlearning terdiri atas tiga komponen aplikasi yang saling terpisah. Hal
