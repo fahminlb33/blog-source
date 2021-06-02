@@ -34,7 +34,7 @@ outputs:
     - SearchIndex
 
 permalinks:
-  post: '/:section/:filename/'
+  post: '/:section/:slug/'
 
 params:
   author: "Fahmi Noor Fiqri"
@@ -53,7 +53,7 @@ params:
 
   # External Apps
   googleAdsense: "6850104426944295"
-  disqusShortname: "kodesiana"
+  # disqusShortname: "kodesiana"
 
   images:
     - img/og.png
