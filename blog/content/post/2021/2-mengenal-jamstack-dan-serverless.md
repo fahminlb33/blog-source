@@ -1,6 +1,6 @@
 ---
-title: Mengenal Blog Jamstack dan Serverless🥧
-slug: mengenal-blog-jamstack-dan-serverless
+title: Mengenal Jamstack dan Serverless🥧
+slug: mengenal-jamstack-dan-serverless
 date: 2021-04-18
 tags: [tips, internet, cloud]
 ---
