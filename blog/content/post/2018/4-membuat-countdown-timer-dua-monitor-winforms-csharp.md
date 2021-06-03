@@ -13,9 +13,9 @@ Pada artikel ini, saya akan membahas sedikit cara membuat aplikasi _countdown t
 
 Pertama buat project baru, saya menggunakan nama **CountdownScreen**. Tambahkan dua form baru kemudian tambahkan kontrol sesuai dengan gambar berikut.
 
-![Desain Form Setting Timer](/posts/2018-05-24/form-utama.png)
+![Desain Form Setting Timer](/posts/2018/4/form-utama.png)
 
-![Desain Form Timer](/posts/2018-05-24/form-countdown.png)
+![Desain Form Timer](/posts/2018/4/form-countdown.png)
 
 Untuk form **CountdownForm.cs**, set _FormBorderStyle_ ke _None_ dan pada label timer set _AutoSize_ ke _False_ dan _Dock_ ke _Fill_. Tambahkan sebuah **Timer** dengan nama _tmrCount_ dengan _Interval_ 1000.Sesuaikan tampilan dan font yang digunakan agar mudah dilihat.
 
@@ -98,11 +98,11 @@ namespace CountdownScreen {
 
 Setelah selesai, jalankan program dengan cara tekan **F5**. Form **MainForm** akan muncul. Pastikan komputer/laptop Anda terhubung dengan dua monitor dan _project mode_ pada **Extend**.
 
-![Project Mode Extend](/posts/2018-05-24/monitor-extend.jpg)
+![Project Mode Extend](/posts/2018/4/monitor-extend.jpg)
 
 Masukkan berapa lama timer dan pilihan monitor, kemudian klik **Mulai**. Countdown akan muncul pada layar yang dipilih. Klik **Berhenti** untuk menutup form countdown.
 
-![Tampilan Aplikasi Timer](/posts/2018-05-24/pilihan-display.png)
+![Tampilan Aplikasi Timer](/posts/2018/4/pilihan-display.png)
 
 ## Download
 

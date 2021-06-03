@@ -46,7 +46,7 @@ pada format EN-US dapat dengan mudah diubah menjadi kultur Indonesia yaitu
 _tanggal/bulan/tahun_ menggunakan kode di atas. Biasanya format tanggal dan
 waktu tidak perlu kustom, cukup mengubah kultur saja.
 
-![Demo Manipulasi DateTime](/posts/2018-05-27/demo-datetime.png)
+![Demo Manipulasi DateTime](/posts/2018/6/demo-datetime.png)
 
 ## Format Standar DateTime
 

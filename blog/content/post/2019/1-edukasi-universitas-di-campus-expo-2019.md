@@ -17,7 +17,7 @@ Pada acara ini siswa akan mendapat edukasi mengenai perguruan tinggi, tips
 SNMPTN/SBMPTN/Gap Year. Acara ini diselenggarakan di SMA Negeri 1 Leuwiliang
 Bogor.
 
-![Logo CAMPUS EXPO](/posts/2019-01-11/3-1024x768.jpg)
+![Logo CAMPUS EXPO](/posts/2019/1/3-1024x768.jpg)
 
 Logo CAMPUS EXPO
 

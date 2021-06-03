@@ -55,7 +55,7 @@ Euclidean. Data baru akan dibandingkan jarak terdekat dengan tetangganya,
 semakin banyak tetangga dengan jarak yang dekat, maka data tersebut akan masuk
 ke dalam kelas tersebut.
 
-![](/posts/2020-07-20/MsLY6Gu.png)
+![](/posts/2020/2/MsLY6Gu.png)
 
 Visualisasi KNN.
 
@@ -143,7 +143,7 @@ yaitu:
 4. _Training_, menggunakan algoritma KNN.
 5. _Evaluation_, menggunakan _confusion matrix_.
 
-![](/posts/2020-07-20/P1gKiep.jpg)
+![](/posts/2020/2/P1gKiep.jpg)
 
 ### Data Ingestion
 
@@ -190,7 +190,7 @@ visualisasi sebaran data dan distribusinya.
 df.describe()
 ```
 
-![](/posts/2020-07-20/qoP3W9m.png)
+![](/posts/2020/2/qoP3W9m.png)
 
 Dapat dilihat pada output di atas masing-masing kelas terdapat 150 data. Semua
 atribut memiliki _mean_ dan standar deviasi yang berbeda-beda pula. Jika kita
@@ -209,7 +209,7 @@ meningkatkan akurasi model.
 df.head()
 ```
 
-![](/posts/2020-07-20/Uoqa4yh.png)
+![](/posts/2020/2/Uoqa4yh.png)
 
 Dari output di atas dapat dilihat ternyata data di dalam file CSV disusun
 berurutan berdasarkan kelas. Artinya sebelum melakukan _training_ data harus
@@ -224,7 +224,7 @@ hubungan antar variabel pada dataset.
 sns.pairplot(df, hue='class')
 ```
 
-![](/posts/2020-07-20/PDwVmDh.png)
+![](/posts/2020/2/PDwVmDh.png)
 
 Pair Plot antar Variabel.
 
@@ -320,7 +320,7 @@ plt.ylabel('Rata-Rata Error')
 plt.show()
 ```
 
-![](/posts/2020-07-20/vVbJETU.png)
+![](/posts/2020/2/vVbJETU.png)
 
 Dapat dilihat pada grafik yang dihasilkan, bahwa terdapat beberapa nilai \\(k\\)
 yang dapat meminimalisasi nilai _error_. Contohnya nilai \\(k\\) awal yang
@@ -355,7 +355,7 @@ y_pred = classifier.predict(X_test)
 print(classification_report(y_test, y_pred, target_names=lb.classes_))
 ```
 
-![](/posts/2020-07-20/gacPCPX.png)
+![](/posts/2020/2/gacPCPX.png)
 
 Berdasarkan hasil output dari **classification_report**, diketahui bahwa model
 dapat membedakan semua data dengan spesies _iris-setosa_ dengan sempurna. Tetapi
@@ -373,7 +373,7 @@ ConfusionMatrixDisplay(cm, display_labels=lb.classes_).plot()
 ```
 
 ![Confusion matrix hasil klasifikasi menggunakan model machine
-learning](/posts/2020-07-20/xLl7GmJ.png)
+learning](/posts/2020/2/xLl7GmJ.png)
 
 ## Penutup🌌
 

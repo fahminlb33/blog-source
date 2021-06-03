@@ -19,7 +19,7 @@ Setiap kerusakan memiliki cara penanganan yang berbeda, karena tingkat keparahan
 
 Sebelum melakukan perbaikan, Anda harus melakukan diagnosis untuk mengetahui masalah apa yang terdapat pada komputer Anda. Ikuti langkah-langkah di bawah ini.
 
-![Diskpart List Volume](/posts/2018-04-23/diskpart-list-volume.jpg)
+![Diskpart List Volume](/posts/2018/2/diskpart-list-volume.jpg)
 
 1. _Boot_ melalui DVD/USB instalasi Windows, setelah muncul tampilan untuk instalasi Windows, tekan **F10** untuk membuka Command Promt.
 2. Ketik _**diskpart**_, kemudian tekan ENTER.

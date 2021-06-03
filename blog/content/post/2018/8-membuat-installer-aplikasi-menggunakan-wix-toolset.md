@@ -39,11 +39,11 @@ WiX Toolset (kependekan dari Windows Installer XML Toolset) merupakan program un
 
 Buka halaman unduh WiX Toolset: [http://wixtoolset.org/releases](http://wixtoolset.org/releases/). Klik **Download v3.\*** kemudian pada halaman GitHub, klik **wix3\*\*.exe**. Pada contoh ini versi WiX yang digunakan adalah versi 3.11.1, jadi file yang diunduh adalah **wix311.exe**. Tutup Visual Studio apabila dibuka dan pasang WiX Toolset.
 
-![Tampilan Installer WiX Toolset](/posts/2018-05-29/installer-wix.png)
+![Tampilan Installer WiX Toolset](/posts/2018/8/installer-wix.png)
 
 Klik Install untuk memasang WiX Toolset. Setelah proses instalasi selesai, buka Visual Studio dan buat project baru. Pilih **Setup Project for WiX v3**. Setelah itu, project baru akan muncul dengan file default _Product.wxs_.
 
-![Membuat Setup Project WiX](/posts/2018-05-29/project-baru-wix.png)
+![Membuat Setup Project WiX](/posts/2018/8/project-baru-wix.png)
 
 Pada tahap ini, Anda telah berhasil membuat sebuah project setup kosong.
 
@@ -99,7 +99,7 @@ Isi file wxs kosong:
 
 Sebelum membuat installer aplikasi, pertama kita harus menentukan file apa yang akan diinstal dan bagaimana struktur instalasinya. Pada contoh ini, penulis membuat folder **E:\\installer** kemudian menyalin semua file **.exe, .dll, .xml**, dan lainnya ke folder tersebut.
 
-![Folder Aplikasi Wiyata Bhakti](/posts/2018-05-29/dir-file-aplikasi.png)
+![Folder Aplikasi Wiyata Bhakti](/posts/2018/8/dir-file-aplikasi.png)
 
 Folder di atas berisi file yang akan diinstal. Satu file _WiyataBhakti.App.exe_ yang merupakan program utama, file _WiyataBhakti.mdf_ dan _WiyataBhakti.ldf_ merupakan basis data SQL Server, dan file lain seperti DLL dan XML yang dibutuhkan oleh aplikasi Wiyata Bhakti.
 
@@ -190,7 +190,7 @@ Cara menggunakan **heat**:
 3. Ketik "_heat dir "." -ag -sfrag -sreg -scom -suid -var var.SourceDir -template fragment -out target.wxs_" kemudian tekan Enter.
 4. Buka folder **E:\\installer** kemudian buka file **target.wxs**.
 
-![Penggunaan Harvest Tool](/posts/2018-05-29/wix-harvest-tool.png)
+![Penggunaan Harvest Tool](/posts/2018/8/wix-harvest-tool.png)
 
 Anda mungkin perlu mengonfigurasi _environment variable_ `PATH` untuk dapat menggunakan **heat**. Contoh file **target.wxs** hasil dari tool heat:
 
@@ -337,7 +337,7 @@ Penjelasan:
 
 Sampai tahap ini, Anda sudah bisa membuat file setup MSI yang dapat diinstall. Klik **Build > Build ContohSetup** untuk membuat setup installer. Hasil akhir file MSI dapat Anda buka pada folder project Anda, biasanya terdapat pada folder **bin**.
 
-![Build Project ContohSetup](/posts/2018-05-29/build-project1.png)
+![Build Project ContohSetup](/posts/2018/8/build-project1.png)
 
 Build Project ContohSetup
 
@@ -349,7 +349,7 @@ Pada tutorial kedua, Anda telah berhasil membuat setup yang dapat menginstall ap
 
 Untuk menambahkan tampilan persetujuan lisensi pada installer, Anda harus membuat file teks lisensi dalam format RTF. Penulis menyarankan untuk menggunakan aplikasi bawaan Windows WordPad untuk membuat dokumen RTF. Contoh dokumen lisensi menggunakan WordPad:
 
-![Edit Lisensi Menggunakan WordPad](/posts/2018-05-29/edit-lisensi-wordpad.png)
+![Edit Lisensi Menggunakan WordPad](/posts/2018/8/edit-lisensi-wordpad.png)
 
 Buka file _Product.wxs_ kemudian tambahkan kode berikut.
 
@@ -390,7 +390,7 @@ Penjelasan:
 
 Untuk menggunakan kode di atas, tambahkan referensi ke **WixUIExtension.dll** dengan cara klik kanan pada project kemudian klik **Add > Reference...**. Pada tab _Browse_, pindah ke folder _C:\\Program Files (x86)\\WiX Toolset v3.11\\bin_. Pilih **WixUIExtension.dll** kemudian klik _Add_ dan klik _OK._
 
-![Add Reference ke Project WiX](/posts/2018-05-29/add-reference-wix.png)
+![Add Reference ke Project WiX](/posts/2018/8/add-reference-wix.png)
 
 ### Mengubah Ikon Program pada Control Panel
 
@@ -573,7 +573,7 @@ Penjelasan:
 
 Untuk _bootstrapper_ ini, letakkan semua setup yang akan digabung dalam 1 folder, pada contoh ini penulis menggunakan folder _E:\\installer_jadi_.
 
-![Folder Setup Bootstrapper](/posts/2018-05-29/msi-bootstrapper.png)
+![Folder Setup Bootstrapper](/posts/2018/8/msi-bootstrapper.png)
 
 Pada gambar di atas dapat terlihat setup instalasi untuk .NET Framework 4.5.1 (NDP451-xxx.exe), SQL Server LocalDB 2014 (SqlLocalDB-2014-xx.msi), Crystal Report Runtime (CRRuntime\_xx.msi), dan Visual C++ 2015 Redistributable (vcredist-2015\_xx.exe). Keempat program tersebut akan di install menggunakan _bootstrapper_.
 
@@ -761,7 +761,7 @@ Sebelum setup dapat digunakan pada komputer klien, setup harus diuji coba terleb
 
 Penulis biasanya mengunakan **VirtualBox** untuk membuat _virtual machine_ dan sistem operasi **Windows 7**. Penulis juga biasa membuat _snapshot_ saat VM pertama kali dibuat, untuk menandai _clean install_. Jadi tidak perlu melakukan install ulang saat perlu melakukan tes ulang.
 
-![VirtualBox Manager](/posts/2018-05-29/vbox-man.png)
+![VirtualBox Manager](/posts/2018/8/vbox-man.png)
 
 ## Studi Kasus Lainnya
 

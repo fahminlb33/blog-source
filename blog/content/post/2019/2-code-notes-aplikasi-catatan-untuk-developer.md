@@ -9,7 +9,7 @@ Code Notes merupakan aplikasi catatan atau _snippet_ bagi developer. Seringkali 
 
 Nah, aplikasi ini bisa dipakai untuk mengatasi masalah ini!
 
-![](/posts/2019-02-11/screen.png)
+![](/posts/2019/2/screen.png)
 
 Tampilan Code Notes. Sumber: https://lauthieb.github.io/code-notes/
 

@@ -73,7 +73,7 @@ Buat package.js dengan cara mengeksekusi _npm init -y_.
 Install _puppeteer_ dan _mustache_ dengan cara mengeksekusi _npm install
 puppeteer mustache_.
 
-![](/posts/2020-09-22/image.png)
+![](/posts/2020/5/image.png)
 
 PowerShell 7 Core di Windows Terminal.
 

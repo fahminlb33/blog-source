@@ -15,7 +15,7 @@ Untuk menilai kecepatan/efisiensi suatu website/blog untuk dapat ditampilkan kep
 
 Kedua metrik ini biasa digunakan untuk mengukur performa website/blog. Penulis menggunakan layanan [GTmetrix](https://gtmetrix.com) untuk mengukur dua skor metrik tersebut.
 
-![Skor GTmetrix Kodesiana.com](/posts/2018-06-18/42081974795_f1df5d9997_o_d.jpg)
+![Skor GTmetrix Kodesiana.com](/posts/2018/10/42081974795_f1df5d9997_o_d.jpg)
 
 Skor GTmetrix Kodesiana.com
 
@@ -40,17 +40,17 @@ Sebelum memulai proses untuk mempercepat website/blog, Anda akan mengonfigurasi 
 
 Buka cPanel kemudian buat subdomain baru. Pada contoh ini penulis membuat subdomain `https://cdn.kodesiana.com` dengan _target folder_ _/public\_html_. Pastikan _target folder_ adalah folder yang sama dengan website/blog Anda. Folder ini dapat berbeda sesuai server yang Anda gunakan.
 
-![Membuat Subdomain untuk CDN](/posts/2018-06-18/42081975495_b7048e52dc_o_d.png)
+![Membuat Subdomain untuk CDN](/posts/2018/10/42081975495_b7048e52dc_o_d.png)
 
 Membuat Subdomain untuk CDN
 
-![Entri Subdomain Baru untuk CDN](/posts/2018-06-18/42081975995_7123438da0_o_d.png)
+![Entri Subdomain Baru untuk CDN](/posts/2018/10/42081975995_7123438da0_o_d.png)
 
 Entri Subdomain Baru untuk CDN
 
 Setelah Anda membuat subdomain baru, selanjutnya Anda buka **DNS Zone Editor** kemudian hapus semua entri _A_ dan _TXT_ yang ada pada entri baru Anda. Kemudian buat entri CNAME yang mengarah pada domain utama Anda. Pada contoh ini entri _cdn.kodesiana__.com_ hanya memiliki _CNAME_ yang mengarah ke _kodesiana.com_.
 
-![Setting DNS Zone untuk Subdomain CDN](/posts/2018-06-18/42265141514_d81f4ce9fb_o_d.png)
+![Setting DNS Zone untuk Subdomain CDN](/posts/2018/10/42265141514_d81f4ce9fb_o_d.png)
 
 Setting DNS Zone untuk Subdomain CDN
 
@@ -82,29 +82,29 @@ CDN            | Type       | Generic Mirror
 
 Buka **Performance > CDN**. kemudian pada bagian **Configuration: Objects**, tambahkan subdomain yang sebelumnya telah dibuat. Setelah Anda selesai, klik **Save all settings**.
 
-![Pengaturan CDN](/posts/2018-06-18/42265140234_a571898563_o_d.jpg)
+![Pengaturan CDN](/posts/2018/10/42265140234_a571898563_o_d.jpg)
 
 #### Konfigurasi Minification
 
 Buka **Performance > Minify,** kemudian klik tombol **Help** pada bagian atas W3 Total Cache.
 
-![Tombol Help untuk Menambahkan Entri JS/CSS](/posts/2018-06-18/41173606200_9e424281cd_o_d.jpg)
+![Tombol Help untuk Menambahkan Entri JS/CSS](/posts/2018/10/41173606200_9e424281cd_o_d.jpg)
 
 Tombol Help untuk Menambahkan Entri JS/CSS
 
 Pada bagian **JavaScript,** pilih semua file JS yang ada pada satu template, pada contoh ini penulis memilih semua file JS (ada 13 file) pada template _All Templates._
 
-![Pilihan Entri JS](/posts/2018-06-18/42081975325_fc49232fe4_o_d.jpg)
+![Pilihan Entri JS](/posts/2018/10/42081975325_fc49232fe4_o_d.jpg)
 
 Selanjutnya pada bagian **Cascading Style Sheets**, pilih semua CSS pada satu template, pada contoh ini penulis memilih semua file CSS (ada 8 file) pada template _All Templates_. Setelah semua file JS dan CSS dipilih, klik **Save & close**.
 
-![Pilihan Entri CSS](/posts/2018-06-18/42265140414_fd908061ee_o_d.jpg)
+![Pilihan Entri CSS](/posts/2018/10/42265140414_fd908061ee_o_d.jpg)
 
 Sekarang Anda akan mengatur urutan loading JS dan CSS pada website/blog Anda. Anda perlu melakukan prioritas JS dan CSS mana yang perlu di-_load_ terlebih dahulu dan mana yang tidak perlu. Selain itu, Anda juga perlu mengatur JS dan CSS mana saja yang akan di-_load_ pada website/blog Anda.
 
 Cara mengatur urutan loading JS/CSS pada W3 Total Cache:
 
-![Mengatur Urutan Load JS/CSS](/posts/2018-06-18/42081980655_6dbae2ef11_o_d.jpg)
+![Mengatur Urutan Load JS/CSS](/posts/2018/10/42081980655_6dbae2ef11_o_d.jpg)
 
 Anda dapat melakukan _drag-n-drop_ pada item JS/CSS untuk mengatur urutan _loading-nya._ Secara umum, Anda harus mengikuti aturan berikut:
 
@@ -126,7 +126,7 @@ Buka **WP Asset Clean Up > Settings**, kemudian centang pada kotak **Manage in
 
 Buka **WP Asset Clean Up > Home Page**, kemudian Anda akan melihat banyak file CSS/JS yang tampil. Ceklis pada kotak untuk mencegah CSS/JS tersebut _di-load_ pada _front page_. Hal ini bertujuan untuk meringankan loading _front page_. Anda dapat mencentang kotak _wp-embed_ untuk menonaktifkan _WordPress Embed_ pada _home page_.
 
-![Pengaturan WP Asset Clean Up](/posts/2018-06-18/42983399971_714659d7fc_o_d.jpg)
+![Pengaturan WP Asset Clean Up](/posts/2018/10/42983399971_714659d7fc_o_d.jpg)
 
 Anda dapat menyesuaikan CSS/JS apa saja yang digunakan oleh website/blog Anda melalui plugin ini. Harap berhati-hati karena salah setting dapat menyebabkan website/blog Anda tidak beroperasi dengan baik.
 

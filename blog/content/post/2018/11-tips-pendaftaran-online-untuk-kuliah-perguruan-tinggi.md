@@ -29,7 +29,7 @@ Untuk melakukan _crop_, Anda bisa menggunakan aplikasi seperti PicsArt, PhotoSca
 6. Pada kotak **Output Folder**, centang _Same folder as input_kemudian klik **Compress!**
 7. Setelah proses kompresi selesai, Anda dapat melihat hasilnya pada folder yang sama dengan file aslinya.
 
-[![Penggunaan Caesium Image Compressor](/posts/2018-07-12/43311861012_972e1bd7eb_b.jpg)]
+[![Penggunaan Caesium Image Compressor](/posts/2018/11/43311861012_972e1bd7eb_b.jpg)]
 
 Jika ukuran file hasil kompresi masih belum cukup kecil, Anda dapat mengubah kualitas atau dimensi gambar hingga mendapatkan hasil yang diinginkan. Misalnya Anda dapat mengubah kualitas menjadi 70 dan lebar menjadi 800. Hal ini aman dilakukan dan tidak akan mendapatkan sanksi dari panitia.
 
@@ -44,7 +44,7 @@ Kadang beberapa persyaratan harus dilampirkan dalam format PDF. Penulis biasanya
 3. Klik **Combine files** untuk membuat PDF.
 4. Klik **Save** pada _toolbar_ kemudian simpan file.
 
-[![Penggunaan Combine Files Adobe Acrobat X](/posts/2018-07-12/29490350168_d28c6ec422_b.jpg)](https://www.flickr.com/photos/158825251@N05/29490350168/in/dateposted-public/)
+[![Penggunaan Combine Files Adobe Acrobat X](/posts/2018/11/29490350168_d28c6ec422_b.jpg)](https://www.flickr.com/photos/158825251@N05/29490350168/in/dateposted-public/)
 
 ### B. Membuat PDF menggunakan JPGtoPDF
 
@@ -53,7 +53,7 @@ Kadang beberapa persyaratan harus dilampirkan dalam format PDF. Penulis biasanya
 3. Tunggu semua file berhasil diunggah, kemudian klik **Combined.**
 4. File PDF akan otomatis disimpan pada komputer.
 
-[![Tutorial JPG2PDF](/posts/2018-07-12/42457176355_cc37453e18_b.jpg)](https://www.flickr.com/photos/158825251@N05/42457176355/in/dateposted-public/)
+[![Tutorial JPG2PDF](/posts/2018/11/42457176355_cc37453e18_b.jpg)](https://www.flickr.com/photos/158825251@N05/42457176355/in/dateposted-public/)
 
 Jika hasil konversi dari kedua cara di atas terlalu besar, coba kecilkan terlebih dahulu file yang akan dibuat menjadi PDF melalui cara **1) Mengatasi Batasan Ukuran untuk Upload**.
 
@@ -69,7 +69,7 @@ Salah satu persyaratan yang wajib diunggah adalah pas foto. Tetapi setiap univer
 4. Klik tombol centang pada kanan atas Photoshop.
 5. Simpan gambar.
 
-[![Crop Pas Foto menggunakan Photoshop](/posts/2018-07-12/29490618508_6fe17a3f79_b.jpg)](https://www.flickr.com/photos/158825251@N05/29490618508/in/dateposted-public/)
+[![Crop Pas Foto menggunakan Photoshop](/posts/2018/11/29490618508_6fe17a3f79_b.jpg)](https://www.flickr.com/photos/158825251@N05/29490618508/in/dateposted-public/)
 
 ### B. Mengubah Warna Latar Pas Foto
 
@@ -81,7 +81,7 @@ Untuk mengubah warna latar, perlu diperhatikan bahwa warna latar harus homogen a
 4. Pilih warna biru yang menurut Anda bagus kemudian klik **OK**.
 5. Simpan gambar.
 
-[![Ubah Warna Latar Pas Foto](/posts/2018-07-12/29490747058_4d9d8812cd_b.jpg)](https://www.flickr.com/photos/158825251@N05/29490747058/in/dateposted-public/)
+[![Ubah Warna Latar Pas Foto](/posts/2018/11/29490747058_4d9d8812cd_b.jpg)](https://www.flickr.com/photos/158825251@N05/29490747058/in/dateposted-public/)
 
 ## Penutup
 

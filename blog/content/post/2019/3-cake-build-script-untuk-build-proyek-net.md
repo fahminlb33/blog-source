@@ -19,7 +19,7 @@ harus melakukan _signing_ terlebih dahulu.
 Daripada melakukan semua itu secara manual, akan lebih mudah jika ada cara untuk
 membuat proses tersebut menjadi otomatis, kan? Nah inilah tujuan dari Cake.
 
-![](/posts/2019-02-15/912-cake-build-fs8.png)
+![](/posts/2019/3/912-cake-build-fs8.png)
 
 ## Apa itu Cake Build?
 

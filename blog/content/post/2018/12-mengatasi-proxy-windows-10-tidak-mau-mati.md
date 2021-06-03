@@ -13,6 +13,8 @@ Proxy merupakan sebuah server yang bertugas sebagai penengah komunikasi antara 
 
 Marak laporan mengenai proxy pada Windows 10 yang tidak bisa dimatikan lewat Settings. Hal ini menyebabkan Windows tidak bisa mengakses internet, misalnya pada Google Chrome akan muncul _error_ **ERR_PROXY_CONNECTION_FAILED**.
 
+![Setting Proxy di Windows 10](/posts/2018/12/44985786865_3f03e02e25_o.png)
+
 Untuk mengatasi hal tersebut, Anda dapat menggunakan file _registry_ berikut untuk mematikan proxy pada jendela Settings.
 
 ```plain

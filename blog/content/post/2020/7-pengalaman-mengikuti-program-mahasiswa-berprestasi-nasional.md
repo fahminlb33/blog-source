@@ -77,7 +77,7 @@ Inggris. Tidak jauh berbeda dengan dua wawancara sebelumnya.
 
 Seleksi tingkat fakultas ini dilakukan selama satu hari.
 
-![](/posts/2020-10-08/pilmapres-fmipa-1024x768.jpeg)
+![](/posts/2020/7/pilmapres-fmipa-1024x768.jpeg)
 
 Foto kenangan Pilmapres 2020 (penulis yang paling kiri).
 

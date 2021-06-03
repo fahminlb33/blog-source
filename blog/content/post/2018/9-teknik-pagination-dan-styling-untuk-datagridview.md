@@ -9,7 +9,7 @@ tags: ["csharp", "tutorial"]
 
 Styling digunakan untuk "memperindah" tampilan DataGridView kepada user, biasanya berupa kombinasi warna untuk meningkatkan _look-and-feel_ dari data yang ditampilkan. Trik utama untuk membuat _style_ adalah pemilihan warna. Bagaimana penggunaan warna dapat mengubah _look-and-feel_. Tanpa perlu menggunakan _library_ pihak ketiga seperti Telerik dan DevExpress, Anda dapat membuat tampilan DataGridView yang menarik dengan kombinasi warna yang tepat.
 
-[![enhanced-dgv-demo-min](/posts/2018-06-09/42081976985_c793f5c1c1_o.png)]
+[![enhanced-dgv-demo-min](/posts/2018/9/42081976985_c793f5c1c1_o.png)]
 
 ## Pagination
 
@@ -46,7 +46,7 @@ Source code:
 
 Clone repositori source code, kemudian buka **KF.DataGridEnhanced.sln**. Buat database baru dan buat tabel baru beserta isinya. Pada contoh ini, penulis menggunakan tabel _Product_ dengan kolom sebagai berikut.
 
-![Contoh Tabel untuk Pagination](/posts/2018-06-09/42265141214_37dcf83fae_o_d.png)
+![Contoh Tabel untuk Pagination](/posts/2018/9/42265141214_37dcf83fae_o_d.png)
 
 Contoh Tabel untuk Pagination
 
