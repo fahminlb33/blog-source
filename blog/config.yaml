@@ -1,5 +1,5 @@
 baseURL: 'https://kodesiana.com/'
-title: "Fahmi Noor Fiqri"
+title: Kodesiana
 theme: fuji
 
 languageCode: id
@@ -38,7 +38,7 @@ permalinks:
 
 params:
   author: "Fahmi Noor Fiqri"
-  subTitle: "#NgodingItuMudah"
+  subTitle: "#NgodingItuMudah by Fahmi Noor Fiqri"
   description: A passionate software engineer and machine learning enthusiast.
   sourceURL: 'https://github.com/fahminlb33/blog-source'
 
