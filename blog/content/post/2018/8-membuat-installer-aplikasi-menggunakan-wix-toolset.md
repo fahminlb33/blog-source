@@ -97,7 +97,7 @@ Isi file wxs kosong:
 
 ## Membuat Installer Aplikasi
 
-Sebelum membuat installer aplikasi, pertama kita harus menentukan file apa yang akan diinstal dan bagaimana struktur instalasinya. Pada contoh ini, penulis membuat folder **E:\\installer** kemudian menyalin semua file **.exe, .dll, .xml**, dan lainnya ke folder tersebut.
+Sebelum membuat installer aplikasi, pertama kita harus menentukan file apa yang akan diinstal dan bagaimana struktur instalasinya. Pada contoh ini, penulis membuat folder **E:\\installer** kemudian menyalin semua file `.exe, .dll, .xml`, dan lainnya ke folder tersebut.
 
 ![Folder Aplikasi Wiyata Bhakti](/posts/2018/8/dir-file-aplikasi.png)
 
@@ -652,7 +652,7 @@ Penjelasan:
 
 ### Menambahkan SQL Server LocalDB 2014
 
-Untuk menambahkan setup lain selain .NET Framework, atribut _DetectCondition_ harus dibuat secara manual menggunakan **<util:RegistrySearch>**. Hal ini karena WiX Toolset tidak memiliki informasi apa pun mengenai program yang akan di install. Buka file _Packages.wxs_ kemudian tambahkan kode berikut.
+Untuk menambahkan setup lain selain .NET Framework, atribut _DetectCondition_ harus dibuat secara manual menggunakan `<util:RegistrySearch>`. Hal ini karena WiX Toolset tidak memiliki informasi apa pun mengenai program yang akan di install. Buka file _Packages.wxs_ kemudian tambahkan kode berikut.
 
 ```xml
 <util:RegistrySearch Id="SQLSERVERLOCALDB" Variable="SQLSERVERLOCALDB" Root="HKLM" Value="ParentInstance" Result="exists" Win64="no" Key="SOFTWARE\Microsoft\Microsoft SQL Server Local DB\Installed Versions\12.0" />
@@ -767,7 +767,7 @@ Penulis biasanya mengunakan **VirtualBox** untuk membuat _virtual machine_ dan
 
 Penulis mendapatkan banyak permintaan dari pembaca blog Kodesiana.com untuk membuat tutorial dengan menggunakan basis data MySQL. Pada waktu dekat ini, penulis mungkin tidak bisa membuat tutorial lengkap cara membuat _bootstrapper_ dengan program tambahan MySQL.
 
-Jika Anda ingin bereksperimen untuk membuat _bootstrapper_ MySQL, penulis menyarankan untuk mengunduh [**MySQL for Windows**](https://dev.mysql.com/downloads/installer) untuk memulai membuat _bootstrapper_. Saran dari penulis:
+Jika Anda ingin bereksperimen untuk membuat _bootstrapper_ MySQL, penulis menyarankan untuk mengunduh [MySQL for Windows](https://dev.mysql.com/downloads/installer) untuk memulai membuat _bootstrapper_. Saran dari penulis:
 
 1. Gunakan `<RegistrySearch>` untuk mendeteksi program MySQL.
 2. Install MySQL for Windows menggunakan `<ExePackage>`.
