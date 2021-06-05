@@ -15,7 +15,7 @@
 {{ else if .IsHome }}
 <title>{{ .Site.Title }}</title>
 {{ else }}
-<title>{{ .Title }} - {{ .Site.Title }}</title>
+<title>{{ .Title }}</title>
 {{ end }}
 {{ if or (.Params.author) (.Site.Params.author) }}
 <meta name="author" content="{{ if .Params.author }}{{ .Params.author }}{{ else }}{{ .Site.Params.author }}{{ end }}" />
