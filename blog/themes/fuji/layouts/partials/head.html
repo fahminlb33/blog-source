@@ -2,7 +2,6 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 <meta name="HandheldFriendly" content="True" />
-<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta http-equiv="Cache-Control" content="no-transform" />
 <meta http-equiv="Cache-Control" content="no-siteapp" />
 {{ hugo.Generator }}
@@ -20,8 +19,12 @@
 {{ if or (.Params.author) (.Site.Params.author) }}
 <meta name="author" content="{{ if .Params.author }}{{ .Params.author }}{{ else }}{{ .Site.Params.author }}{{ end }}" />
 {{ end }}
+{{ if (.Page.Summary) }}
+<meta name="description" content="{{ .Page.Summary }}" />
+{{ else }}
 {{ if or (.Params.description) (.Site.Params.description) }}
 <meta name="description" content="{{ if .Params.description }}{{ .Params.description }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
+{{ end }}
 {{ end }}
 {{ if .Params.tags }}
 <meta name="keywords" content="{{ delimit .Params.tags ", " }}" />
