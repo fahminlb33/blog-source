@@ -42,6 +42,7 @@ params:
   description: A passionate software engineer and machine learning enthusiast.
   sourceURL: 'https://github.com/fahminlb33/blog-source'
 
+  disableDarkImage: true
   showWordCounter: true
   showReadTime: true
   showLicenseInFooter: true

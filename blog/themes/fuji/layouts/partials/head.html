@@ -37,9 +37,7 @@
 {{ $options := (dict "targetPath" "assets/css/fuji.min.css" "outputStyle" "compressed") }}
 {{ $style := resources.Get "scss/fuji.scss" | resources.ToCSS $options }}
 <link rel="stylesheet preload" as="style" href="{{ $style.Permalink }}" />
-{{ with .Site.Params.googleAdsense }}
-<script async data-ad-client="ca-pub-{{ . }}" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-{{ end}}
+
 {{ if .Params.player }}
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aplayer/1.10.1/APlayer.min.css" integrity="sha512-CIYsJUa3pr1eoXlZFroEI0mq0UIMUqNouNinjpCkSWo3Bx5NRlQ0OuC6DtEB/bDqUWnzXc1gs2X/g52l36N5iw==" crossorigin="anonymous" />
 {{ end }}
